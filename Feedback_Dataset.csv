@@ -1,0 +1,601 @@
+Date,Session,Session Code,Subject,Name,Gender,Roll No,Class,Semester,Faculty,Regularity,Punctuality,Clarity,Interaction,Technology,Overall Rating
+01-01-2025,Session 1,250201,IOT,Aaryan Joshi,Male,mca2504001,MCA,Sem 2,Prof. S. Joshi,Average,Average,Average,Average,Average,3
+01-01-2025,Session 1,250201,IOT,Mehul Desai,Male,mca2504002,MCA,Sem 2,Prof. N. Mehta,Excellent,Good,Average,Excellent,Below Average,4
+01-01-2025,Session 1,250201,IOT,Priya Mistry,Male,mca2504003,MCA,Sem 2,Prof. A. Patel,Average,Average,Good,Below Average,Average,4
+01-01-2025,Session 1,250201,IOT,Krishna Makwana,Male,mca2504004,MCA,Sem 2,Prof. A. Patel,Below Average,Below Average,Excellent,Average,Excellent,5
+01-01-2025,Session 1,250201,IOT,Pooja Mehta,Female,mca2504005,MCA,Sem 2,Prof. M. Desai,Below Average,Good,Good,Below Average,Below Average,3
+01-01-2025,Session 2,250202,Foundation Of Data Science,Hardik Makwana,Female,mca2504006,MCA,Sem 2,Prof. A. Patel,Good,Below Average,Excellent,Good,Average,3
+01-01-2025,Session 2,250202,Foundation Of Data Science,Myra Gajjar,Female,mca2504007,MCA,Sem 2,Prof. N. Mehta,Average,Average,Excellent,Excellent,Average,3
+01-01-2025,Session 2,250202,Foundation Of Data Science,Aryan Panchal,Female,mca2504008,MCA,Sem 2,Prof. N. Mehta,Excellent,Excellent,Average,Below Average,Good,4
+01-01-2025,Session 2,250202,Foundation Of Data Science,Sanjay Chauhan,Female,mca2504009,MCA,Sem 2,Prof. M. Desai,Good,Good,Average,Below Average,Excellent,3
+01-01-2025,Session 2,250202,Foundation Of Data Science,Vikram Vaghela,Male,mca2504010,MCA,Sem 2,Prof. R. Shah,Average,Good,Excellent,Excellent,Average,5
+01-01-2025,Session 3,250203,Data Warehousing,Anika Shah,Male,mca2504011,MCA,Sem 2,Prof. M. Desai,Average,Excellent,Good,Below Average,Excellent,5
+01-01-2025,Session 3,250203,Data Warehousing,Rajesh Rathod,Male,mca2504012,MCA,Sem 2,Prof. M. Desai,Below Average,Below Average,Average,Below Average,Excellent,5
+01-01-2025,Session 3,250203,Data Warehousing,Ansh Thakur,Female,mca2504013,MCA,Sem 2,Prof. R. Shah,Good,Good,Good,Below Average,Excellent,5
+01-01-2025,Session 3,250203,Data Warehousing,Amit Desai,Female,mca2504014,MCA,Sem 2,Prof. S. Joshi,Excellent,Good,Average,Good,Below Average,5
+01-01-2025,Session 3,250203,Data Warehousing,Anika Shah,Female,mca2504015,MCA,Sem 2,Prof. A. Patel,Average,Average,Good,Excellent,Good,3
+01-01-2025,Session 4,250204,Power BI,Aryan Mistry,Male,mca2504016,MCA,Sem 2,Prof. R. Shah,Average,Below Average,Excellent,Average,Average,3
+01-01-2025,Session 4,250204,Power BI,Angel Varma,Male,mca2504017,MCA,Sem 2,Prof. S. Joshi,Excellent,Excellent,Excellent,Below Average,Average,5
+01-01-2025,Session 4,250204,Power BI,Riya Vaghela,Male,mca2504018,MCA,Sem 2,Prof. M. Desai,Below Average,Average,Excellent,Average,Excellent,4
+01-01-2025,Session 4,250204,Power BI,Anika Thakur,Male,mca2504019,MCA,Sem 2,Prof. S. Joshi,Average,Good,Below Average,Excellent,Excellent,4
+01-01-2025,Session 4,250204,Power BI,Diya Patel,Male,mca2504020,MCA,Sem 2,Prof. M. Desai,Below Average,Good,Good,Below Average,Excellent,3
+02-01-2025,Session 1,250201,IOT,Aarav Chauhan,Female,mca2504021,MCA,Sem 2,Prof. R. Shah,Excellent,Good,Excellent,Below Average,Excellent,4
+02-01-2025,Session 1,250201,IOT,Arjun Vaghela,Female,mca2504022,MCA,Sem 2,Prof. A. Patel,Excellent,Excellent,Below Average,Below Average,Average,4
+02-01-2025,Session 1,250201,IOT,Sai Desai,Male,mca2504023,MCA,Sem 2,Prof. S. Joshi,Average,Excellent,Below Average,Excellent,Good,3
+02-01-2025,Session 1,250201,IOT,Tushar Gohil,Female,mca2504024,MCA,Sem 2,Prof. N. Mehta,Excellent,Good,Excellent,Excellent,Average,5
+02-01-2025,Session 1,250201,IOT,Nehal Parmar,Male,mca2504025,MCA,Sem 2,Prof. S. Joshi,Excellent,Below Average,Excellent,Good,Average,3
+02-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Solanki,Male,mca2504026,MCA,Sem 2,Prof. R. Shah,Below Average,Average,Below Average,Below Average,Average,5
+02-01-2025,Session 2,250202,Foundation Of Data Science,Amit Solanki,Male,mca2504027,MCA,Sem 2,Prof. N. Mehta,Good,Excellent,Excellent,Excellent,Excellent,4
+02-01-2025,Session 2,250202,Foundation Of Data Science,Bhavin Thakur,Male,mca2504028,MCA,Sem 2,Prof. M. Desai,Excellent,Good,Below Average,Good,Excellent,3
+02-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Sharma,Female,mca2504029,MCA,Sem 2,Prof. S. Joshi,Good,Below Average,Good,Good,Average,5
+02-01-2025,Session 2,250202,Foundation Of Data Science,Mehul Thakur,Female,mca2504030,MCA,Sem 2,Prof. S. Joshi,Good,Average,Average,Average,Good,3
+02-01-2025,Session 3,250203,Data Warehousing,Tushar Makwana,Male,mca2504031,MCA,Sem 2,Prof. N. Mehta,Below Average,Excellent,Excellent,Average,Excellent,3
+02-01-2025,Session 3,250203,Data Warehousing,Sneha Yadav,Male,mca2504032,MCA,Sem 2,Prof. N. Mehta,Good,Below Average,Good,Below Average,Excellent,3
+02-01-2025,Session 3,250203,Data Warehousing,Aavya Gajjar,Female,mca2504033,MCA,Sem 2,Prof. S. Joshi,Below Average,Average,Good,Below Average,Excellent,5
+02-01-2025,Session 3,250203,Data Warehousing,Navya Makwana,Female,mca2504034,MCA,Sem 2,Prof. S. Joshi,Average,Below Average,Average,Below Average,Average,3
+02-01-2025,Session 3,250203,Data Warehousing,Tushar Desai,Male,mca2504035,MCA,Sem 2,Prof. R. Shah,Excellent,Good,Below Average,Below Average,Below Average,4
+02-01-2025,Session 4,250204,Power BI,Parth Makwana,Male,mca2504036,MCA,Sem 2,Prof. A. Patel,Excellent,Excellent,Good,Excellent,Good,3
+02-01-2025,Session 4,250204,Power BI,Yash Panchal,Female,mca2504037,MCA,Sem 2,Prof. S. Joshi,Average,Good,Below Average,Excellent,Good,5
+02-01-2025,Session 4,250204,Power BI,Suresh Chauhan,Female,mca2504038,MCA,Sem 2,Prof. M. Desai,Average,Excellent,Excellent,Average,Good,5
+02-01-2025,Session 4,250204,Power BI,Bhavin Mehta,Female,mca2504039,MCA,Sem 2,Prof. A. Patel,Excellent,Average,Excellent,Good,Good,3
+02-01-2025,Session 4,250204,Power BI,Aaryan Solanki,Male,mca2504040,MCA,Sem 2,Prof. N. Mehta,Average,Good,Excellent,Below Average,Good,4
+03-01-2025,Session 1,250201,IOT,Hardik Rathod,Male,mca2504041,MCA,Sem 2,Prof. S. Joshi,Excellent,Excellent,Below Average,Average,Average,3
+03-01-2025,Session 1,250201,IOT,Karan Yadav,Male,mca2504042,MCA,Sem 2,Prof. R. Shah,Average,Below Average,Average,Below Average,Below Average,4
+03-01-2025,Session 1,250201,IOT,Ansh Vaghela,Male,mca2504043,MCA,Sem 2,Prof. R. Shah,Below Average,Below Average,Average,Average,Good,3
+03-01-2025,Session 1,250201,IOT,Mehul Shah,Male,mca2504044,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Good,Excellent,Good,4
+03-01-2025,Session 1,250201,IOT,Saanvi Varma,Male,mca2504045,MCA,Sem 2,Prof. R. Shah,Average,Excellent,Excellent,Good,Excellent,4
+03-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Parmar,Female,mca2504046,MCA,Sem 2,Prof. A. Patel,Below Average,Excellent,Average,Excellent,Average,3
+03-01-2025,Session 2,250202,Foundation Of Data Science,Navya Joshi,Male,mca2504047,MCA,Sem 2,Prof. R. Shah,Excellent,Average,Below Average,Average,Excellent,3
+03-01-2025,Session 2,250202,Foundation Of Data Science,Yash Patel,Female,mca2504048,MCA,Sem 2,Prof. A. Patel,Average,Average,Average,Good,Good,3
+03-01-2025,Session 2,250202,Foundation Of Data Science,Amit Joshi,Female,mca2504049,MCA,Sem 2,Prof. N. Mehta,Excellent,Excellent,Excellent,Average,Below Average,4
+03-01-2025,Session 2,250202,Foundation Of Data Science,Nehal Parmar,Male,mca2504050,MCA,Sem 2,Prof. A. Patel,Good,Excellent,Below Average,Average,Excellent,4
+03-01-2025,Session 3,250203,Data Warehousing,Rahul Rathod,Male,mca2504051,MCA,Sem 2,Prof. N. Mehta,Average,Average,Below Average,Average,Excellent,5
+03-01-2025,Session 3,250203,Data Warehousing,Anika Gohil,Female,mca2504052,MCA,Sem 2,Prof. N. Mehta,Below Average,Excellent,Below Average,Average,Good,5
+03-01-2025,Session 3,250203,Data Warehousing,Arjun Gohil,Male,mca2504053,MCA,Sem 2,Prof. S. Joshi,Good,Good,Average,Good,Excellent,4
+03-01-2025,Session 3,250203,Data Warehousing,Anika Mistry,Male,mca2504054,MCA,Sem 2,Prof. S. Joshi,Average,Good,Below Average,Excellent,Excellent,5
+03-01-2025,Session 3,250203,Data Warehousing,Saanvi Chauhan,Male,mca2504055,MCA,Sem 2,Prof. A. Patel,Below Average,Excellent,Good,Excellent,Good,5
+03-01-2025,Session 4,250204,Power BI,Deep Mehta,Female,mca2504056,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Good,Excellent,Average,5
+03-01-2025,Session 4,250204,Power BI,Vivaan Gajjar,Female,mca2504057,MCA,Sem 2,Prof. R. Shah,Below Average,Average,Excellent,Average,Below Average,3
+03-01-2025,Session 4,250204,Power BI,Ishaan Parmar,Female,mca2504058,MCA,Sem 2,Prof. N. Mehta,Good,Below Average,Excellent,Average,Average,4
+03-01-2025,Session 4,250204,Power BI,Sai Yadav,Female,mca2504059,MCA,Sem 2,Prof. A. Patel,Average,Excellent,Average,Good,Excellent,4
+03-01-2025,Session 4,250204,Power BI,Sanjay Makwana,Male,mca2504060,MCA,Sem 2,Prof. A. Patel,Average,Excellent,Below Average,Average,Average,4
+04-01-2025,Session 1,250201,IOT,Deep Rathod,Female,mca2504061,MCA,Sem 2,Prof. M. Desai,Below Average,Below Average,Excellent,Below Average,Good,3
+04-01-2025,Session 1,250201,IOT,Myra Makwana,Female,mca2504062,MCA,Sem 2,Prof. R. Shah,Good,Below Average,Excellent,Excellent,Excellent,3
+04-01-2025,Session 1,250201,IOT,Nehal Makwana,Female,mca2504063,MCA,Sem 2,Prof. R. Shah,Excellent,Excellent,Below Average,Good,Good,3
+04-01-2025,Session 1,250201,IOT,Saanvi Vaghela,Male,mca2504064,MCA,Sem 2,Prof. N. Mehta,Excellent,Average,Below Average,Good,Below Average,5
+04-01-2025,Session 1,250201,IOT,Aarav Makwana,Male,mca2504065,MCA,Sem 2,Prof. M. Desai,Excellent,Average,Average,Good,Below Average,4
+04-01-2025,Session 2,250202,Foundation Of Data Science,Sai Gajjar,Female,mca2504066,MCA,Sem 2,Prof. M. Desai,Below Average,Good,Good,Average,Average,4
+04-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Yadav,Female,mca2504067,MCA,Sem 2,Prof. S. Joshi,Excellent,Average,Good,Excellent,Good,4
+04-01-2025,Session 2,250202,Foundation Of Data Science,Rajesh Varma,Female,mca2504068,MCA,Sem 2,Prof. N. Mehta,Good,Excellent,Below Average,Good,Excellent,3
+04-01-2025,Session 2,250202,Foundation Of Data Science,Anika Mehta,Female,mca2504069,MCA,Sem 2,Prof. S. Joshi,Average,Good,Good,Below Average,Average,5
+04-01-2025,Session 2,250202,Foundation Of Data Science,Ananya Jadeja,Male,mca2504070,MCA,Sem 2,Prof. M. Desai,Good,Good,Average,Average,Good,4
+04-01-2025,Session 3,250203,Data Warehousing,Riya Solanki,Male,mca2504071,MCA,Sem 2,Prof. A. Patel,Excellent,Good,Below Average,Below Average,Average,4
+04-01-2025,Session 3,250203,Data Warehousing,Sai Yadav,Female,mca2504072,MCA,Sem 2,Prof. N. Mehta,Average,Good,Excellent,Good,Average,5
+04-01-2025,Session 3,250203,Data Warehousing,Sai Patel,Male,mca2504073,MCA,Sem 2,Prof. R. Shah,Below Average,Average,Good,Excellent,Below Average,3
+04-01-2025,Session 3,250203,Data Warehousing,Diya Gajjar,Female,mca2504074,MCA,Sem 2,Prof. R. Shah,Average,Average,Average,Average,Below Average,3
+04-01-2025,Session 3,250203,Data Warehousing,Aadhya Makwana,Female,mca2504075,MCA,Sem 2,Prof. S. Joshi,Excellent,Average,Below Average,Below Average,Below Average,3
+04-01-2025,Session 4,250204,Power BI,Hardik Shah,Male,mca2504076,MCA,Sem 2,Prof. S. Joshi,Below Average,Good,Below Average,Excellent,Excellent,3
+04-01-2025,Session 4,250204,Power BI,Diya Rathod,Female,mca2504077,MCA,Sem 2,Prof. R. Shah,Below Average,Below Average,Excellent,Below Average,Good,5
+04-01-2025,Session 4,250204,Power BI,Nehal Vaghela,Female,mca2504078,MCA,Sem 2,Prof. R. Shah,Good,Average,Average,Average,Good,4
+04-01-2025,Session 4,250204,Power BI,Ishaan Shah,Female,mca2504079,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Good,Below Average,Good,4
+04-01-2025,Session 4,250204,Power BI,Parth Makwana,Male,mca2504080,MCA,Sem 2,Prof. S. Joshi,Good,Excellent,Good,Excellent,Average,4
+05-01-2025,Session 1,250201,IOT,Amit Mistry,Male,mca2504081,MCA,Sem 2,Prof. M. Desai,Excellent,Average,Good,Average,Below Average,4
+05-01-2025,Session 1,250201,IOT,Angel Joshi,Female,mca2504082,MCA,Sem 2,Prof. S. Joshi,Good,Below Average,Good,Average,Good,3
+05-01-2025,Session 1,250201,IOT,Aaryan Joshi,Male,mca2504083,MCA,Sem 2,Prof. S. Joshi,Excellent,Below Average,Good,Below Average,Below Average,4
+05-01-2025,Session 1,250201,IOT,Deep Panchal,Female,mca2504084,MCA,Sem 2,Prof. A. Patel,Good,Average,Average,Average,Average,3
+05-01-2025,Session 1,250201,IOT,Parth Desai,Male,mca2504085,MCA,Sem 2,Prof. R. Shah,Average,Excellent,Excellent,Good,Excellent,5
+05-01-2025,Session 2,250202,Foundation Of Data Science,Ishaan Gohil,Female,mca2504086,MCA,Sem 2,Prof. R. Shah,Excellent,Good,Good,Below Average,Average,5
+05-01-2025,Session 2,250202,Foundation Of Data Science,Saanvi Thakur,Female,mca2504087,MCA,Sem 2,Prof. A. Patel,Good,Average,Good,Excellent,Excellent,5
+05-01-2025,Session 2,250202,Foundation Of Data Science,Aadhya Thakur,Female,mca2504088,MCA,Sem 2,Prof. M. Desai,Good,Average,Below Average,Below Average,Below Average,5
+05-01-2025,Session 2,250202,Foundation Of Data Science,Tushar Chauhan,Female,mca2504089,MCA,Sem 2,Prof. M. Desai,Excellent,Below Average,Excellent,Excellent,Good,4
+05-01-2025,Session 2,250202,Foundation Of Data Science,Navya Solanki,Male,mca2504090,MCA,Sem 2,Prof. A. Patel,Average,Average,Excellent,Good,Excellent,4
+05-01-2025,Session 3,250203,Data Warehousing,Krishna Solanki,Female,mca2504091,MCA,Sem 2,Prof. R. Shah,Good,Good,Good,Average,Below Average,4
+05-01-2025,Session 3,250203,Data Warehousing,Yash Sharma,Male,mca2504092,MCA,Sem 2,Prof. A. Patel,Below Average,Average,Average,Good,Below Average,4
+05-01-2025,Session 3,250203,Data Warehousing,Riya Jadeja,Female,mca2504093,MCA,Sem 2,Prof. R. Shah,Average,Below Average,Excellent,Average,Good,3
+05-01-2025,Session 3,250203,Data Warehousing,Aavya Mehta,Female,mca2504094,MCA,Sem 2,Prof. M. Desai,Average,Excellent,Excellent,Excellent,Good,4
+05-01-2025,Session 3,250203,Data Warehousing,Bhavin Rathod,Male,mca2504095,MCA,Sem 2,Prof. S. Joshi,Average,Good,Good,Average,Excellent,4
+05-01-2025,Session 4,250204,Power BI,Myra Mistry,Female,mca2504096,MCA,Sem 2,Prof. N. Mehta,Average,Good,Average,Good,Good,5
+05-01-2025,Session 4,250204,Power BI,Amit Joshi,Male,mca2504097,MCA,Sem 2,Prof. S. Joshi,Good,Below Average,Average,Excellent,Excellent,3
+05-01-2025,Session 4,250204,Power BI,Aditya Desai,Female,mca2504098,MCA,Sem 2,Prof. M. Desai,Good,Average,Good,Good,Excellent,4
+05-01-2025,Session 4,250204,Power BI,Krishna Parmar,Female,mca2504099,MCA,Sem 2,Prof. R. Shah,Excellent,Excellent,Average,Good,Below Average,3
+05-01-2025,Session 4,250204,Power BI,Sai Makwana,Male,mca2504100,MCA,Sem 2,Prof. R. Shah,Below Average,Good,Excellent,Excellent,Below Average,4
+06-01-2025,Session 1,250201,IOT,Yash Gajjar,Female,mca2504101,MCA,Sem 2,Prof. M. Desai,Below Average,Average,Average,Good,Average,3
+06-01-2025,Session 1,250201,IOT,Parth Patel,Female,mca2504102,MCA,Sem 2,Prof. S. Joshi,Excellent,Below Average,Good,Good,Excellent,5
+06-01-2025,Session 1,250201,IOT,Priya Jadeja,Male,mca2504103,MCA,Sem 2,Prof. N. Mehta,Below Average,Below Average,Excellent,Good,Good,4
+06-01-2025,Session 1,250201,IOT,Angel Shah,Female,mca2504104,MCA,Sem 2,Prof. M. Desai,Below Average,Good,Excellent,Excellent,Below Average,3
+06-01-2025,Session 1,250201,IOT,Krishna Thakur,Male,mca2504105,MCA,Sem 2,Prof. M. Desai,Below Average,Below Average,Average,Excellent,Below Average,3
+06-01-2025,Session 2,250202,Foundation Of Data Science,Hardik Mehta,Female,mca2504106,MCA,Sem 2,Prof. M. Desai,Excellent,Excellent,Average,Excellent,Below Average,4
+06-01-2025,Session 2,250202,Foundation Of Data Science,Yash Patel,Male,mca2504107,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Below Average,Average,Below Average,4
+06-01-2025,Session 2,250202,Foundation Of Data Science,Karan Gohil,Female,mca2504108,MCA,Sem 2,Prof. S. Joshi,Below Average,Excellent,Average,Good,Average,5
+06-01-2025,Session 2,250202,Foundation Of Data Science,Riya Patel,Male,mca2504109,MCA,Sem 2,Prof. R. Shah,Below Average,Excellent,Good,Average,Excellent,4
+06-01-2025,Session 2,250202,Foundation Of Data Science,Dharmesh Mistry,Female,mca2504110,MCA,Sem 2,Prof. A. Patel,Average,Below Average,Excellent,Below Average,Excellent,4
+06-01-2025,Session 3,250203,Data Warehousing,Aarav Panchal,Female,mca2504111,MCA,Sem 2,Prof. R. Shah,Below Average,Excellent,Excellent,Below Average,Excellent,5
+06-01-2025,Session 3,250203,Data Warehousing,Priya Makwana,Male,mca2504112,MCA,Sem 2,Prof. S. Joshi,Average,Average,Average,Average,Excellent,4
+06-01-2025,Session 3,250203,Data Warehousing,Karan Rathod,Female,mca2504113,MCA,Sem 2,Prof. R. Shah,Excellent,Average,Below Average,Good,Below Average,4
+06-01-2025,Session 3,250203,Data Warehousing,Rajesh Gohil,Female,mca2504114,MCA,Sem 2,Prof. S. Joshi,Average,Good,Good,Average,Excellent,4
+06-01-2025,Session 3,250203,Data Warehousing,Pari Thakur,Male,mca2504115,MCA,Sem 2,Prof. S. Joshi,Good,Excellent,Average,Excellent,Average,5
+06-01-2025,Session 4,250204,Power BI,Amit Jadeja,Female,mca2504116,MCA,Sem 2,Prof. R. Shah,Excellent,Below Average,Average,Excellent,Good,4
+06-01-2025,Session 4,250204,Power BI,Vivaan Jadeja,Male,mca2504117,MCA,Sem 2,Prof. A. Patel,Good,Below Average,Average,Excellent,Excellent,4
+06-01-2025,Session 4,250204,Power BI,Riya Solanki,Female,mca2504118,MCA,Sem 2,Prof. A. Patel,Good,Excellent,Good,Below Average,Excellent,5
+06-01-2025,Session 4,250204,Power BI,Tushar Thakur,Female,mca2504119,MCA,Sem 2,Prof. R. Shah,Average,Average,Excellent,Average,Good,5
+06-01-2025,Session 4,250204,Power BI,Aaryan Joshi,Male,mca2504120,MCA,Sem 2,Prof. R. Shah,Below Average,Below Average,Average,Good,Good,5
+07-01-2025,Session 1,250201,IOT,Ansh Gohil,Male,mca2504121,MCA,Sem 2,Prof. M. Desai,Average,Excellent,Average,Excellent,Excellent,4
+07-01-2025,Session 1,250201,IOT,Suresh Joshi,Male,mca2504122,MCA,Sem 2,Prof. M. Desai,Good,Below Average,Below Average,Good,Below Average,3
+07-01-2025,Session 1,250201,IOT,Karan Yadav,Male,mca2504123,MCA,Sem 2,Prof. M. Desai,Good,Below Average,Below Average,Excellent,Below Average,3
+07-01-2025,Session 1,250201,IOT,Myra Chauhan,Male,mca2504124,MCA,Sem 2,Prof. A. Patel,Good,Excellent,Good,Average,Below Average,4
+07-01-2025,Session 1,250201,IOT,Sai Chauhan,Male,mca2504125,MCA,Sem 2,Prof. N. Mehta,Excellent,Excellent,Excellent,Excellent,Average,4
+07-01-2025,Session 2,250202,Foundation Of Data Science,Angel Parmar,Male,mca2504126,MCA,Sem 2,Prof. R. Shah,Good,Excellent,Average,Average,Good,3
+07-01-2025,Session 2,250202,Foundation Of Data Science,Aaryan Makwana,Male,mca2504127,MCA,Sem 2,Prof. R. Shah,Good,Below Average,Good,Good,Good,4
+07-01-2025,Session 2,250202,Foundation Of Data Science,Aadhya Gohil,Male,mca2504128,MCA,Sem 2,Prof. S. Joshi,Average,Below Average,Average,Good,Good,3
+07-01-2025,Session 2,250202,Foundation Of Data Science,Nehal Solanki,Female,mca2504129,MCA,Sem 2,Prof. S. Joshi,Good,Excellent,Good,Below Average,Excellent,5
+07-01-2025,Session 2,250202,Foundation Of Data Science,Pooja Makwana,Male,mca2504130,MCA,Sem 2,Prof. S. Joshi,Average,Below Average,Average,Average,Good,5
+07-01-2025,Session 3,250203,Data Warehousing,Aryan Sharma,Female,mca2504131,MCA,Sem 2,Prof. R. Shah,Excellent,Good,Good,Below Average,Excellent,3
+07-01-2025,Session 3,250203,Data Warehousing,Karan Sharma,Female,mca2504132,MCA,Sem 2,Prof. S. Joshi,Average,Excellent,Excellent,Average,Excellent,3
+07-01-2025,Session 3,250203,Data Warehousing,Deep Shah,Male,mca2504133,MCA,Sem 2,Prof. R. Shah,Excellent,Average,Below Average,Below Average,Excellent,5
+07-01-2025,Session 3,250203,Data Warehousing,Rajesh Shah,Female,mca2504134,MCA,Sem 2,Prof. N. Mehta,Excellent,Below Average,Average,Average,Below Average,5
+07-01-2025,Session 3,250203,Data Warehousing,Aadhya Panchal,Male,mca2504135,MCA,Sem 2,Prof. M. Desai,Average,Excellent,Good,Good,Average,5
+07-01-2025,Session 4,250204,Power BI,Priya Panchal,Female,mca2504136,MCA,Sem 2,Prof. R. Shah,Average,Below Average,Excellent,Excellent,Excellent,4
+07-01-2025,Session 4,250204,Power BI,Rajesh Parmar,Female,mca2504137,MCA,Sem 2,Prof. S. Joshi,Below Average,Excellent,Average,Average,Excellent,3
+07-01-2025,Session 4,250204,Power BI,Diya Vaghela,Male,mca2504138,MCA,Sem 2,Prof. N. Mehta,Good,Excellent,Average,Below Average,Average,4
+07-01-2025,Session 4,250204,Power BI,Aarav Rathod,Male,mca2504139,MCA,Sem 2,Prof. S. Joshi,Good,Below Average,Excellent,Average,Average,4
+07-01-2025,Session 4,250204,Power BI,Ansh Panchal,Male,mca2504140,MCA,Sem 2,Prof. N. Mehta,Below Average,Below Average,Average,Good,Average,5
+08-01-2025,Session 1,250201,IOT,Aryan Shah,Female,mca2504141,MCA,Sem 2,Prof. N. Mehta,Average,Below Average,Good,Below Average,Average,4
+08-01-2025,Session 1,250201,IOT,Rahul Parmar,Female,mca2504142,MCA,Sem 2,Prof. M. Desai,Below Average,Below Average,Excellent,Average,Excellent,3
+08-01-2025,Session 1,250201,IOT,Vivaan Chauhan,Male,mca2504143,MCA,Sem 2,Prof. R. Shah,Below Average,Excellent,Excellent,Average,Below Average,3
+08-01-2025,Session 1,250201,IOT,Mehul Panchal,Male,mca2504144,MCA,Sem 2,Prof. A. Patel,Below Average,Below Average,Below Average,Excellent,Below Average,3
+08-01-2025,Session 1,250201,IOT,Pooja Shah,Female,mca2504145,MCA,Sem 2,Prof. N. Mehta,Excellent,Excellent,Excellent,Excellent,Average,3
+08-01-2025,Session 2,250202,Foundation Of Data Science,Myra Yadav,Male,mca2504146,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Excellent,Average,Good,5
+08-01-2025,Session 2,250202,Foundation Of Data Science,Ishaan Desai,Female,mca2504147,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Excellent,Good,Below Average,5
+08-01-2025,Session 2,250202,Foundation Of Data Science,Sneha Gajjar,Female,mca2504148,MCA,Sem 2,Prof. M. Desai,Average,Excellent,Excellent,Good,Excellent,5
+08-01-2025,Session 2,250202,Foundation Of Data Science,Ishaan Shah,Male,mca2504149,MCA,Sem 2,Prof. M. Desai,Average,Below Average,Good,Below Average,Excellent,3
+08-01-2025,Session 2,250202,Foundation Of Data Science,Aarav Chauhan,Female,mca2504150,MCA,Sem 2,Prof. N. Mehta,Good,Good,Good,Excellent,Below Average,5
+08-01-2025,Session 3,250203,Data Warehousing,Karan Thakur,Male,mca2504151,MCA,Sem 2,Prof. N. Mehta,Below Average,Below Average,Excellent,Excellent,Average,3
+08-01-2025,Session 3,250203,Data Warehousing,Rahul Thakur,Male,mca2504152,MCA,Sem 2,Prof. R. Shah,Below Average,Excellent,Average,Below Average,Average,5
+08-01-2025,Session 3,250203,Data Warehousing,Dharmesh Gajjar,Male,mca2504153,MCA,Sem 2,Prof. R. Shah,Excellent,Good,Average,Below Average,Average,3
+08-01-2025,Session 3,250203,Data Warehousing,Myra Yadav,Male,mca2504154,MCA,Sem 2,Prof. A. Patel,Average,Below Average,Below Average,Average,Below Average,5
+08-01-2025,Session 3,250203,Data Warehousing,Riya Mehta,Female,mca2504155,MCA,Sem 2,Prof. R. Shah,Good,Average,Below Average,Average,Average,4
+08-01-2025,Session 4,250204,Power BI,Dharmesh Varma,Male,mca2504156,MCA,Sem 2,Prof. N. Mehta,Average,Good,Below Average,Good,Average,5
+08-01-2025,Session 4,250204,Power BI,Tushar Chauhan,Female,mca2504157,MCA,Sem 2,Prof. M. Desai,Average,Good,Good,Average,Good,5
+08-01-2025,Session 4,250204,Power BI,Aavya Jadeja,Female,mca2504158,MCA,Sem 2,Prof. A. Patel,Excellent,Excellent,Excellent,Average,Below Average,4
+08-01-2025,Session 4,250204,Power BI,Deep Rathod,Female,mca2504159,MCA,Sem 2,Prof. R. Shah,Average,Good,Good,Excellent,Average,4
+08-01-2025,Session 4,250204,Power BI,Amit Thakur,Female,mca2504160,MCA,Sem 2,Prof. M. Desai,Good,Below Average,Good,Good,Good,4
+09-01-2025,Session 1,250201,IOT,Parth Chauhan,Female,mca2504161,MCA,Sem 2,Prof. N. Mehta,Average,Excellent,Below Average,Average,Average,4
+09-01-2025,Session 1,250201,IOT,Bhavin Gohil,Male,mca2504162,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Average,Below Average,Average,3
+09-01-2025,Session 1,250201,IOT,Myra Gajjar,Female,mca2504163,MCA,Sem 2,Prof. A. Patel,Good,Good,Excellent,Below Average,Excellent,5
+09-01-2025,Session 1,250201,IOT,Nehal Desai,Male,mca2504164,MCA,Sem 2,Prof. A. Patel,Average,Excellent,Good,Good,Good,3
+09-01-2025,Session 1,250201,IOT,Hardik Desai,Male,mca2504165,MCA,Sem 2,Prof. R. Shah,Average,Average,Excellent,Below Average,Excellent,3
+09-01-2025,Session 2,250202,Foundation Of Data Science,Rajesh Patel,Male,mca2504166,MCA,Sem 2,Prof. R. Shah,Good,Below Average,Excellent,Average,Below Average,3
+09-01-2025,Session 2,250202,Foundation Of Data Science,Deep Chauhan,Male,mca2504167,MCA,Sem 2,Prof. R. Shah,Excellent,Excellent,Average,Excellent,Average,3
+09-01-2025,Session 2,250202,Foundation Of Data Science,Diya Desai,Male,mca2504168,MCA,Sem 2,Prof. A. Patel,Excellent,Below Average,Excellent,Average,Good,3
+09-01-2025,Session 2,250202,Foundation Of Data Science,Mehul Solanki,Female,mca2504169,MCA,Sem 2,Prof. S. Joshi,Excellent,Excellent,Below Average,Average,Below Average,4
+09-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Gajjar,Female,mca2504170,MCA,Sem 2,Prof. N. Mehta,Good,Excellent,Excellent,Good,Excellent,5
+09-01-2025,Session 3,250203,Data Warehousing,Anika Thakur,Male,mca2504171,MCA,Sem 2,Prof. A. Patel,Average,Below Average,Excellent,Good,Excellent,5
+09-01-2025,Session 3,250203,Data Warehousing,Dharmesh Patel,Female,mca2504172,MCA,Sem 2,Prof. S. Joshi,Good,Average,Average,Good,Good,3
+09-01-2025,Session 3,250203,Data Warehousing,Myra Varma,Female,mca2504173,MCA,Sem 2,Prof. A. Patel,Good,Good,Average,Below Average,Excellent,4
+09-01-2025,Session 3,250203,Data Warehousing,Krishna Gajjar,Female,mca2504174,MCA,Sem 2,Prof. R. Shah,Excellent,Average,Excellent,Average,Good,4
+09-01-2025,Session 3,250203,Data Warehousing,Diya Desai,Female,mca2504175,MCA,Sem 2,Prof. N. Mehta,Excellent,Average,Good,Below Average,Good,4
+09-01-2025,Session 4,250204,Power BI,Aditya Sharma,Male,mca2504176,MCA,Sem 2,Prof. S. Joshi,Excellent,Good,Excellent,Good,Good,4
+09-01-2025,Session 4,250204,Power BI,Amit Joshi,Female,mca2504177,MCA,Sem 2,Prof. N. Mehta,Average,Below Average,Below Average,Good,Excellent,5
+09-01-2025,Session 4,250204,Power BI,Aarav Gohil,Female,mca2504178,MCA,Sem 2,Prof. S. Joshi,Below Average,Good,Below Average,Excellent,Excellent,5
+09-01-2025,Session 4,250204,Power BI,Bhavin Parmar,Female,mca2504179,MCA,Sem 2,Prof. M. Desai,Average,Below Average,Good,Average,Excellent,4
+09-01-2025,Session 4,250204,Power BI,Ansh Chauhan,Male,mca2504180,MCA,Sem 2,Prof. R. Shah,Average,Average,Excellent,Average,Average,5
+10-01-2025,Session 1,250201,IOT,Rajesh Parmar,Female,mca2504181,MCA,Sem 2,Prof. A. Patel,Good,Average,Excellent,Excellent,Good,5
+10-01-2025,Session 1,250201,IOT,Yash Shah,Female,mca2504182,MCA,Sem 2,Prof. A. Patel,Below Average,Excellent,Below Average,Below Average,Excellent,4
+10-01-2025,Session 1,250201,IOT,Navya Desai,Female,mca2504183,MCA,Sem 2,Prof. M. Desai,Average,Below Average,Excellent,Good,Excellent,4
+10-01-2025,Session 1,250201,IOT,Diya Parmar,Male,mca2504184,MCA,Sem 2,Prof. A. Patel,Below Average,Excellent,Average,Average,Good,3
+10-01-2025,Session 1,250201,IOT,Myra Mehta,Male,mca2504185,MCA,Sem 2,Prof. N. Mehta,Excellent,Below Average,Good,Excellent,Below Average,5
+10-01-2025,Session 2,250202,Foundation Of Data Science,Arjun Thakur,Female,mca2504186,MCA,Sem 2,Prof. S. Joshi,Good,Excellent,Good,Average,Excellent,5
+10-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Desai,Female,mca2504187,MCA,Sem 2,Prof. S. Joshi,Below Average,Below Average,Excellent,Average,Excellent,3
+10-01-2025,Session 2,250202,Foundation Of Data Science,Aarav Sharma,Male,mca2504188,MCA,Sem 2,Prof. M. Desai,Good,Below Average,Good,Excellent,Excellent,3
+10-01-2025,Session 2,250202,Foundation Of Data Science,Yash Desai,Female,mca2504189,MCA,Sem 2,Prof. A. Patel,Below Average,Average,Good,Below Average,Below Average,5
+10-01-2025,Session 2,250202,Foundation Of Data Science,Dharmesh Yadav,Male,mca2504190,MCA,Sem 2,Prof. M. Desai,Average,Good,Good,Below Average,Average,4
+10-01-2025,Session 3,250203,Data Warehousing,Vikram Makwana,Female,mca2504191,MCA,Sem 2,Prof. S. Joshi,Average,Excellent,Average,Average,Below Average,4
+10-01-2025,Session 3,250203,Data Warehousing,Myra Solanki,Female,mca2504192,MCA,Sem 2,Prof. M. Desai,Good,Below Average,Below Average,Excellent,Average,3
+10-01-2025,Session 3,250203,Data Warehousing,Anika Mistry,Male,mca2504193,MCA,Sem 2,Prof. A. Patel,Average,Average,Average,Good,Below Average,4
+10-01-2025,Session 3,250203,Data Warehousing,Rajesh Panchal,Male,mca2504194,MCA,Sem 2,Prof. S. Joshi,Good,Below Average,Good,Excellent,Average,5
+10-01-2025,Session 3,250203,Data Warehousing,Dharmesh Solanki,Male,mca2504195,MCA,Sem 2,Prof. N. Mehta,Below Average,Good,Good,Average,Excellent,4
+10-01-2025,Session 4,250204,Power BI,Rajesh Panchal,Male,mca2504196,MCA,Sem 2,Prof. N. Mehta,Excellent,Excellent,Average,Average,Below Average,3
+10-01-2025,Session 4,250204,Power BI,Aaryan Sharma,Male,mca2504197,MCA,Sem 2,Prof. A. Patel,Average,Excellent,Below Average,Below Average,Below Average,3
+10-01-2025,Session 4,250204,Power BI,Vikram Vaghela,Female,mca2504198,MCA,Sem 2,Prof. A. Patel,Below Average,Excellent,Good,Excellent,Excellent,4
+10-01-2025,Session 4,250204,Power BI,Sneha Thakur,Male,mca2504199,MCA,Sem 2,Prof. A. Patel,Excellent,Excellent,Good,Excellent,Good,5
+10-01-2025,Session 4,250204,Power BI,Amit Solanki,Male,mca2504200,MCA,Sem 2,Prof. A. Patel,Excellent,Average,Average,Below Average,Excellent,4
+11-01-2025,Session 1,250201,IOT,Yash Sharma,Female,mca2504201,MCA,Sem 3,Prof. R. Shah,Excellent,Average,Average,Average,Below Average,5
+11-01-2025,Session 1,250201,IOT,Tushar Mistry,Female,mca2504202,MCA,Sem 3,Prof. S. Joshi,Good,Good,Below Average,Excellent,Average,3
+11-01-2025,Session 1,250201,IOT,Aryan Desai,Female,mca2504203,MCA,Sem 3,Prof. R. Shah,Average,Excellent,Average,Average,Below Average,4
+11-01-2025,Session 1,250201,IOT,Aditya Gohil,Male,mca2504204,MCA,Sem 3,Prof. R. Shah,Below Average,Below Average,Excellent,Good,Excellent,4
+11-01-2025,Session 1,250201,IOT,Aadhya Makwana,Male,mca2504205,MCA,Sem 3,Prof. R. Shah,Below Average,Average,Below Average,Below Average,Below Average,3
+11-01-2025,Session 2,250202,Foundation Of Data Science,Vivaan Mehta,Male,mca2504206,MCA,Sem 3,Prof. R. Shah,Excellent,Below Average,Good,Average,Excellent,5
+11-01-2025,Session 2,250202,Foundation Of Data Science,Nehal Sharma,Female,mca2504207,MCA,Sem 3,Prof. N. Mehta,Good,Below Average,Excellent,Excellent,Average,5
+11-01-2025,Session 2,250202,Foundation Of Data Science,Sneha Makwana,Female,mca2504208,MCA,Sem 3,Prof. M. Desai,Excellent,Good,Average,Good,Excellent,4
+11-01-2025,Session 2,250202,Foundation Of Data Science,Sneha Vaghela,Female,mca2504209,MCA,Sem 3,Prof. S. Joshi,Below Average,Good,Average,Good,Below Average,5
+11-01-2025,Session 2,250202,Foundation Of Data Science,Rajesh Patel,Female,mca2504210,MCA,Sem 3,Prof. S. Joshi,Excellent,Good,Excellent,Good,Good,4
+11-01-2025,Session 3,250203,Data Warehousing,Angel Varma,Male,mca2504211,MCA,Sem 3,Prof. M. Desai,Good,Average,Average,Excellent,Below Average,3
+11-01-2025,Session 3,250203,Data Warehousing,Diya Mistry,Female,mca2504212,MCA,Sem 3,Prof. S. Joshi,Average,Below Average,Average,Below Average,Good,5
+11-01-2025,Session 3,250203,Data Warehousing,Sai Yadav,Male,mca2504213,MCA,Sem 3,Prof. R. Shah,Excellent,Excellent,Excellent,Excellent,Excellent,4
+11-01-2025,Session 3,250203,Data Warehousing,Myra Gajjar,Female,mca2504214,MCA,Sem 3,Prof. M. Desai,Good,Good,Good,Average,Good,5
+11-01-2025,Session 3,250203,Data Warehousing,Aadhya Makwana,Female,mca2504215,MCA,Sem 3,Prof. A. Patel,Below Average,Average,Average,Excellent,Excellent,5
+11-01-2025,Session 4,250204,Power BI,Hardik Panchal,Female,mca2504216,MCA,Sem 3,Prof. R. Shah,Good,Below Average,Below Average,Below Average,Good,5
+11-01-2025,Session 4,250204,Power BI,Aadhya Thakur,Male,mca2504217,MCA,Sem 3,Prof. N. Mehta,Excellent,Good,Good,Excellent,Excellent,4
+11-01-2025,Session 4,250204,Power BI,Angel Panchal,Female,mca2504218,MCA,Sem 3,Prof. S. Joshi,Below Average,Good,Excellent,Excellent,Excellent,5
+11-01-2025,Session 4,250204,Power BI,Parth Panchal,Female,mca2504219,MCA,Sem 3,Prof. S. Joshi,Below Average,Below Average,Good,Excellent,Average,3
+11-01-2025,Session 4,250204,Power BI,Angel Mehta,Male,mca2504220,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Average,Below Average,Excellent,5
+12-01-2025,Session 1,250201,IOT,Hardik Patel,Female,mca2504221,MCA,Sem 3,Prof. N. Mehta,Excellent,Below Average,Average,Good,Excellent,3
+12-01-2025,Session 1,250201,IOT,Priya Chauhan,Female,mca2504222,MCA,Sem 3,Prof. R. Shah,Excellent,Below Average,Average,Good,Excellent,4
+12-01-2025,Session 1,250201,IOT,Angel Parmar,Male,mca2504223,MCA,Sem 3,Prof. S. Joshi,Excellent,Average,Excellent,Average,Average,5
+12-01-2025,Session 1,250201,IOT,Aaryan Gajjar,Female,mca2504224,MCA,Sem 3,Prof. N. Mehta,Average,Average,Below Average,Below Average,Excellent,5
+12-01-2025,Session 1,250201,IOT,Parth Solanki,Female,mca2504225,MCA,Sem 3,Prof. M. Desai,Good,Excellent,Average,Good,Good,3
+12-01-2025,Session 2,250202,Foundation Of Data Science,Rajesh Makwana,Male,mca2504226,MCA,Sem 3,Prof. N. Mehta,Good,Average,Good,Excellent,Excellent,3
+12-01-2025,Session 2,250202,Foundation Of Data Science,Vivaan Parmar,Male,mca2504227,MCA,Sem 3,Prof. S. Joshi,Good,Good,Good,Excellent,Excellent,3
+12-01-2025,Session 2,250202,Foundation Of Data Science,Aarav Yadav,Female,mca2504228,MCA,Sem 3,Prof. A. Patel,Below Average,Below Average,Good,Average,Below Average,4
+12-01-2025,Session 2,250202,Foundation Of Data Science,Aadhya Gohil,Female,mca2504229,MCA,Sem 3,Prof. N. Mehta,Below Average,Below Average,Below Average,Average,Below Average,3
+12-01-2025,Session 2,250202,Foundation Of Data Science,Bhavin Mistry,Male,mca2504230,MCA,Sem 3,Prof. M. Desai,Average,Below Average,Good,Good,Good,4
+12-01-2025,Session 3,250203,Data Warehousing,Bhavin Solanki,Female,mca2504231,MCA,Sem 3,Prof. A. Patel,Average,Excellent,Average,Excellent,Average,3
+12-01-2025,Session 3,250203,Data Warehousing,Tushar Gohil,Female,mca2504232,MCA,Sem 3,Prof. M. Desai,Good,Average,Below Average,Below Average,Below Average,5
+12-01-2025,Session 3,250203,Data Warehousing,Myra Varma,Male,mca2504233,MCA,Sem 3,Prof. S. Joshi,Average,Below Average,Good,Good,Excellent,4
+12-01-2025,Session 3,250203,Data Warehousing,Angel Rathod,Female,mca2504234,MCA,Sem 3,Prof. R. Shah,Excellent,Average,Below Average,Good,Average,5
+12-01-2025,Session 3,250203,Data Warehousing,Hardik Mistry,Female,mca2504235,MCA,Sem 3,Prof. A. Patel,Average,Excellent,Good,Excellent,Good,4
+12-01-2025,Session 4,250204,Power BI,Yash Sharma,Female,mca2504236,MCA,Sem 3,Prof. N. Mehta,Excellent,Excellent,Excellent,Excellent,Below Average,3
+12-01-2025,Session 4,250204,Power BI,Aavya Gohil,Female,mca2504237,MCA,Sem 3,Prof. M. Desai,Good,Excellent,Average,Excellent,Excellent,3
+12-01-2025,Session 4,250204,Power BI,Sanjay Parmar,Male,mca2504238,MCA,Sem 3,Prof. N. Mehta,Average,Average,Average,Below Average,Below Average,4
+12-01-2025,Session 4,250204,Power BI,Hardik Patel,Male,mca2504239,MCA,Sem 3,Prof. M. Desai,Excellent,Good,Below Average,Below Average,Excellent,3
+12-01-2025,Session 4,250204,Power BI,Ansh Patel,Male,mca2504240,MCA,Sem 3,Prof. S. Joshi,Below Average,Good,Excellent,Excellent,Average,5
+13-01-2025,Session 1,250201,IOT,Suresh Mistry,Female,mca2504241,MCA,Sem 3,Prof. R. Shah,Average,Good,Below Average,Excellent,Below Average,5
+13-01-2025,Session 1,250201,IOT,Aarav Desai,Male,mca2504242,MCA,Sem 3,Prof. R. Shah,Below Average,Good,Below Average,Good,Excellent,4
+13-01-2025,Session 1,250201,IOT,Sai Varma,Male,mca2504243,MCA,Sem 3,Prof. A. Patel,Excellent,Average,Average,Excellent,Below Average,4
+13-01-2025,Session 1,250201,IOT,Pari Mistry,Female,mca2504244,MCA,Sem 3,Prof. R. Shah,Below Average,Average,Excellent,Good,Good,5
+13-01-2025,Session 1,250201,IOT,Priya Gohil,Male,mca2504245,MCA,Sem 3,Prof. A. Patel,Excellent,Average,Average,Average,Excellent,4
+13-01-2025,Session 2,250202,Foundation Of Data Science,Pooja Solanki,Male,mca2504246,MCA,Sem 3,Prof. S. Joshi,Below Average,Below Average,Average,Good,Average,4
+13-01-2025,Session 2,250202,Foundation Of Data Science,Sanjay Joshi,Male,mca2504247,MCA,Sem 3,Prof. R. Shah,Below Average,Good,Average,Average,Good,4
+13-01-2025,Session 2,250202,Foundation Of Data Science,Bhavin Gajjar,Male,mca2504248,MCA,Sem 3,Prof. A. Patel,Below Average,Good,Good,Average,Good,5
+13-01-2025,Session 2,250202,Foundation Of Data Science,Myra Rathod,Male,mca2504249,MCA,Sem 3,Prof. M. Desai,Below Average,Good,Below Average,Below Average,Below Average,3
+13-01-2025,Session 2,250202,Foundation Of Data Science,Saanvi Joshi,Male,mca2504250,MCA,Sem 3,Prof. M. Desai,Below Average,Excellent,Average,Good,Below Average,5
+13-01-2025,Session 3,250203,Data Warehousing,Parth Jadeja,Male,mca2504251,MCA,Sem 3,Prof. M. Desai,Excellent,Below Average,Average,Good,Good,4
+13-01-2025,Session 3,250203,Data Warehousing,Diya Sharma,Male,mca2504252,MCA,Sem 3,Prof. M. Desai,Average,Good,Good,Excellent,Below Average,4
+13-01-2025,Session 3,250203,Data Warehousing,Karan Chauhan,Male,mca2504253,MCA,Sem 3,Prof. R. Shah,Below Average,Good,Excellent,Average,Average,5
+13-01-2025,Session 3,250203,Data Warehousing,Diya Yadav,Female,mca2504254,MCA,Sem 3,Prof. M. Desai,Excellent,Average,Good,Below Average,Excellent,5
+13-01-2025,Session 3,250203,Data Warehousing,Aarav Jadeja,Male,mca2504255,MCA,Sem 3,Prof. N. Mehta,Below Average,Below Average,Good,Excellent,Excellent,4
+13-01-2025,Session 4,250204,Power BI,Tushar Jadeja,Male,mca2504256,MCA,Sem 3,Prof. N. Mehta,Average,Below Average,Average,Excellent,Average,3
+13-01-2025,Session 4,250204,Power BI,Sneha Rathod,Female,mca2504257,MCA,Sem 3,Prof. S. Joshi,Below Average,Below Average,Below Average,Below Average,Excellent,5
+13-01-2025,Session 4,250204,Power BI,Deep Varma,Male,mca2504258,MCA,Sem 3,Prof. R. Shah,Average,Excellent,Good,Average,Good,4
+13-01-2025,Session 4,250204,Power BI,Bhavin Varma,Male,mca2504259,MCA,Sem 3,Prof. M. Desai,Average,Excellent,Excellent,Good,Average,5
+13-01-2025,Session 4,250204,Power BI,Aryan Chauhan,Male,mca2504260,MCA,Sem 3,Prof. S. Joshi,Below Average,Excellent,Below Average,Excellent,Below Average,3
+14-01-2025,Session 1,250201,IOT,Karan Varma,Male,mca2504261,MCA,Sem 3,Prof. S. Joshi,Average,Good,Excellent,Average,Good,5
+14-01-2025,Session 1,250201,IOT,Pari Thakur,Female,mca2504262,MCA,Sem 3,Prof. R. Shah,Excellent,Good,Good,Below Average,Average,5
+14-01-2025,Session 1,250201,IOT,Diya Thakur,Female,mca2504263,MCA,Sem 3,Prof. R. Shah,Below Average,Below Average,Excellent,Average,Good,3
+14-01-2025,Session 1,250201,IOT,Yash Gajjar,Male,mca2504264,MCA,Sem 3,Prof. A. Patel,Good,Below Average,Good,Below Average,Good,3
+14-01-2025,Session 1,250201,IOT,Pari Parmar,Female,mca2504265,MCA,Sem 3,Prof. N. Mehta,Below Average,Good,Good,Good,Excellent,4
+14-01-2025,Session 2,250202,Foundation Of Data Science,Karan Solanki,Female,mca2504266,MCA,Sem 3,Prof. N. Mehta,Average,Good,Good,Good,Average,4
+14-01-2025,Session 2,250202,Foundation Of Data Science,Vikram Shah,Female,mca2504267,MCA,Sem 3,Prof. M. Desai,Below Average,Average,Average,Good,Good,5
+14-01-2025,Session 2,250202,Foundation Of Data Science,Mehul Gajjar,Male,mca2504268,MCA,Sem 3,Prof. N. Mehta,Below Average,Below Average,Good,Below Average,Excellent,3
+14-01-2025,Session 2,250202,Foundation Of Data Science,Tushar Rathod,Male,mca2504269,MCA,Sem 3,Prof. N. Mehta,Below Average,Average,Below Average,Below Average,Below Average,5
+14-01-2025,Session 2,250202,Foundation Of Data Science,Sneha Panchal,Male,mca2504270,MCA,Sem 3,Prof. R. Shah,Good,Excellent,Good,Excellent,Good,4
+14-01-2025,Session 3,250203,Data Warehousing,Tushar Yadav,Male,mca2504271,MCA,Sem 3,Prof. N. Mehta,Excellent,Below Average,Good,Good,Good,5
+14-01-2025,Session 3,250203,Data Warehousing,Ananya Gohil,Male,mca2504272,MCA,Sem 3,Prof. M. Desai,Below Average,Average,Below Average,Good,Good,3
+14-01-2025,Session 3,250203,Data Warehousing,Hardik Parmar,Male,mca2504273,MCA,Sem 3,Prof. A. Patel,Average,Excellent,Good,Average,Below Average,4
+14-01-2025,Session 3,250203,Data Warehousing,Vivaan Shah,Male,mca2504274,MCA,Sem 3,Prof. S. Joshi,Good,Good,Average,Good,Excellent,3
+14-01-2025,Session 3,250203,Data Warehousing,Anika Thakur,Female,mca2504275,MCA,Sem 3,Prof. M. Desai,Excellent,Good,Average,Good,Below Average,5
+14-01-2025,Session 4,250204,Power BI,Aarav Shah,Female,mca2504276,MCA,Sem 3,Prof. N. Mehta,Good,Average,Excellent,Below Average,Good,5
+14-01-2025,Session 4,250204,Power BI,Tushar Vaghela,Female,mca2504277,MCA,Sem 3,Prof. M. Desai,Good,Below Average,Good,Average,Good,4
+14-01-2025,Session 4,250204,Power BI,Ansh Yadav,Male,mca2504278,MCA,Sem 3,Prof. N. Mehta,Good,Excellent,Average,Excellent,Average,4
+14-01-2025,Session 4,250204,Power BI,Angel Patel,Female,mca2504279,MCA,Sem 3,Prof. A. Patel,Excellent,Excellent,Excellent,Below Average,Good,3
+14-01-2025,Session 4,250204,Power BI,Myra Makwana,Female,mca2504280,MCA,Sem 3,Prof. R. Shah,Below Average,Good,Excellent,Excellent,Excellent,3
+15-01-2025,Session 1,250201,IOT,Vivaan Gajjar,Female,mca2504281,MCA,Sem 3,Prof. A. Patel,Average,Below Average,Average,Excellent,Average,5
+15-01-2025,Session 1,250201,IOT,Aavya Jadeja,Male,mca2504282,MCA,Sem 3,Prof. S. Joshi,Good,Excellent,Good,Excellent,Below Average,5
+15-01-2025,Session 1,250201,IOT,Hardik Sharma,Female,mca2504283,MCA,Sem 3,Prof. A. Patel,Average,Below Average,Below Average,Average,Excellent,5
+15-01-2025,Session 1,250201,IOT,Hardik Rathod,Female,mca2504284,MCA,Sem 3,Prof. M. Desai,Good,Good,Average,Average,Average,5
+15-01-2025,Session 1,250201,IOT,Sneha Parmar,Male,mca2504285,MCA,Sem 3,Prof. S. Joshi,Average,Excellent,Average,Average,Excellent,3
+15-01-2025,Session 2,250202,Foundation Of Data Science,Hardik Rathod,Male,mca2504286,MCA,Sem 3,Prof. A. Patel,Below Average,Average,Good,Average,Excellent,3
+15-01-2025,Session 2,250202,Foundation Of Data Science,Aditya Solanki,Female,mca2504287,MCA,Sem 3,Prof. M. Desai,Excellent,Below Average,Average,Good,Excellent,5
+15-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Mistry,Female,mca2504288,MCA,Sem 3,Prof. A. Patel,Good,Below Average,Average,Average,Excellent,3
+15-01-2025,Session 2,250202,Foundation Of Data Science,Anika Varma,Female,mca2504289,MCA,Sem 3,Prof. R. Shah,Below Average,Below Average,Below Average,Average,Good,3
+15-01-2025,Session 2,250202,Foundation Of Data Science,Arjun Gohil,Female,mca2504290,MCA,Sem 3,Prof. R. Shah,Excellent,Excellent,Good,Below Average,Below Average,4
+15-01-2025,Session 3,250203,Data Warehousing,Vikram Panchal,Male,mca2504291,MCA,Sem 3,Prof. A. Patel,Good,Below Average,Good,Good,Excellent,4
+15-01-2025,Session 3,250203,Data Warehousing,Anika Gohil,Female,mca2504292,MCA,Sem 3,Prof. S. Joshi,Good,Average,Average,Below Average,Good,4
+15-01-2025,Session 3,250203,Data Warehousing,Vikram Vaghela,Female,mca2504293,MCA,Sem 3,Prof. S. Joshi,Average,Average,Excellent,Below Average,Excellent,5
+15-01-2025,Session 3,250203,Data Warehousing,Pooja Jadeja,Female,mca2504294,MCA,Sem 3,Prof. S. Joshi,Below Average,Below Average,Average,Average,Average,3
+15-01-2025,Session 3,250203,Data Warehousing,Sneha Gajjar,Female,mca2504295,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Excellent,Good,Good,3
+15-01-2025,Session 4,250204,Power BI,Aryan Varma,Male,mca2504296,MCA,Sem 3,Prof. N. Mehta,Good,Excellent,Excellent,Good,Good,3
+15-01-2025,Session 4,250204,Power BI,Aavya Rathod,Female,mca2504297,MCA,Sem 3,Prof. A. Patel,Below Average,Excellent,Below Average,Excellent,Good,4
+15-01-2025,Session 4,250204,Power BI,Aadhya Patel,Female,mca2504298,MCA,Sem 3,Prof. R. Shah,Below Average,Average,Good,Average,Good,4
+15-01-2025,Session 4,250204,Power BI,Krishna Parmar,Female,mca2504299,MCA,Sem 3,Prof. A. Patel,Below Average,Good,Below Average,Below Average,Average,5
+15-01-2025,Session 4,250204,Power BI,Sneha Patel,Male,mca2504300,MCA,Sem 3,Prof. M. Desai,Good,Average,Below Average,Below Average,Good,5
+16-01-2025,Session 1,250201,IOT,Sai Gohil,Female,mca2504301,MCA,Sem 3,Prof. M. Desai,Good,Excellent,Excellent,Excellent,Below Average,4
+16-01-2025,Session 1,250201,IOT,Aaryan Rathod,Female,mca2504302,MCA,Sem 3,Prof. N. Mehta,Below Average,Average,Good,Below Average,Average,3
+16-01-2025,Session 1,250201,IOT,Krishna Parmar,Female,mca2504303,MCA,Sem 3,Prof. R. Shah,Good,Average,Below Average,Excellent,Average,5
+16-01-2025,Session 1,250201,IOT,Ishaan Yadav,Female,mca2504304,MCA,Sem 3,Prof. R. Shah,Excellent,Excellent,Average,Excellent,Average,4
+16-01-2025,Session 1,250201,IOT,Mehul Chauhan,Male,mca2504305,MCA,Sem 3,Prof. A. Patel,Below Average,Excellent,Excellent,Average,Good,4
+16-01-2025,Session 2,250202,Foundation Of Data Science,Aadhya Solanki,Female,mca2504306,MCA,Sem 3,Prof. A. Patel,Average,Average,Excellent,Good,Below Average,5
+16-01-2025,Session 2,250202,Foundation Of Data Science,Riya Sharma,Female,mca2504307,MCA,Sem 3,Prof. A. Patel,Below Average,Good,Below Average,Good,Excellent,3
+16-01-2025,Session 2,250202,Foundation Of Data Science,Ansh Jadeja,Female,mca2504308,MCA,Sem 3,Prof. M. Desai,Good,Average,Excellent,Average,Below Average,3
+16-01-2025,Session 2,250202,Foundation Of Data Science,Sai Sharma,Male,mca2504309,MCA,Sem 3,Prof. N. Mehta,Below Average,Excellent,Good,Good,Excellent,3
+16-01-2025,Session 2,250202,Foundation Of Data Science,Mehul Mistry,Female,mca2504310,MCA,Sem 3,Prof. R. Shah,Below Average,Excellent,Average,Below Average,Good,3
+16-01-2025,Session 3,250203,Data Warehousing,Angel Thakur,Female,mca2504311,MCA,Sem 3,Prof. S. Joshi,Excellent,Excellent,Average,Excellent,Good,4
+16-01-2025,Session 3,250203,Data Warehousing,Ansh Sharma,Male,mca2504312,MCA,Sem 3,Prof. M. Desai,Good,Average,Excellent,Good,Excellent,5
+16-01-2025,Session 3,250203,Data Warehousing,Nehal Parmar,Female,mca2504313,MCA,Sem 3,Prof. R. Shah,Good,Good,Below Average,Below Average,Average,3
+16-01-2025,Session 3,250203,Data Warehousing,Pari Jadeja,Male,mca2504314,MCA,Sem 3,Prof. R. Shah,Below Average,Below Average,Good,Excellent,Excellent,5
+16-01-2025,Session 3,250203,Data Warehousing,Aavya Chauhan,Male,mca2504315,MCA,Sem 3,Prof. N. Mehta,Good,Excellent,Good,Below Average,Below Average,5
+16-01-2025,Session 4,250204,Power BI,Ananya Parmar,Female,mca2504316,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Average,Excellent,Excellent,3
+16-01-2025,Session 4,250204,Power BI,Ansh Thakur,Male,mca2504317,MCA,Sem 3,Prof. M. Desai,Below Average,Excellent,Average,Below Average,Good,5
+16-01-2025,Session 4,250204,Power BI,Ananya Makwana,Female,mca2504318,MCA,Sem 3,Prof. N. Mehta,Excellent,Good,Excellent,Below Average,Excellent,4
+16-01-2025,Session 4,250204,Power BI,Vivaan Gajjar,Female,mca2504319,MCA,Sem 3,Prof. A. Patel,Below Average,Average,Below Average,Good,Below Average,4
+16-01-2025,Session 4,250204,Power BI,Hardik Vaghela,Female,mca2504320,MCA,Sem 3,Prof. A. Patel,Average,Below Average,Good,Good,Below Average,4
+17-01-2025,Session 1,250201,IOT,Vivaan Gajjar,Male,mca2504321,MCA,Sem 3,Prof. N. Mehta,Good,Good,Average,Good,Below Average,4
+17-01-2025,Session 1,250201,IOT,Pari Chauhan,Male,mca2504322,MCA,Sem 3,Prof. R. Shah,Below Average,Below Average,Average,Excellent,Average,3
+17-01-2025,Session 1,250201,IOT,Navya Gajjar,Female,mca2504323,MCA,Sem 3,Prof. N. Mehta,Excellent,Good,Excellent,Excellent,Good,3
+17-01-2025,Session 1,250201,IOT,Yash Desai,Male,mca2504324,MCA,Sem 3,Prof. R. Shah,Good,Average,Below Average,Excellent,Good,5
+17-01-2025,Session 1,250201,IOT,Karan Chauhan,Female,mca2504325,MCA,Sem 3,Prof. A. Patel,Average,Good,Excellent,Good,Excellent,3
+17-01-2025,Session 2,250202,Foundation Of Data Science,Diya Shah,Male,mca2504326,MCA,Sem 3,Prof. N. Mehta,Average,Average,Excellent,Excellent,Average,3
+17-01-2025,Session 2,250202,Foundation Of Data Science,Dharmesh Gohil,Female,mca2504327,MCA,Sem 3,Prof. M. Desai,Excellent,Below Average,Below Average,Good,Below Average,5
+17-01-2025,Session 2,250202,Foundation Of Data Science,Anika Solanki,Male,mca2504328,MCA,Sem 3,Prof. R. Shah,Below Average,Average,Good,Excellent,Below Average,3
+17-01-2025,Session 2,250202,Foundation Of Data Science,Deep Makwana,Female,mca2504329,MCA,Sem 3,Prof. M. Desai,Excellent,Average,Excellent,Good,Average,5
+17-01-2025,Session 2,250202,Foundation Of Data Science,Tushar Shah,Male,mca2504330,MCA,Sem 3,Prof. A. Patel,Excellent,Excellent,Below Average,Excellent,Average,4
+17-01-2025,Session 3,250203,Data Warehousing,Sanjay Shah,Male,mca2504331,MCA,Sem 3,Prof. A. Patel,Below Average,Average,Good,Good,Excellent,4
+17-01-2025,Session 3,250203,Data Warehousing,Aadhya Shah,Male,mca2504332,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Good,Below Average,Average,3
+17-01-2025,Session 3,250203,Data Warehousing,Hardik Patel,Male,mca2504333,MCA,Sem 3,Prof. N. Mehta,Average,Below Average,Average,Below Average,Average,5
+17-01-2025,Session 3,250203,Data Warehousing,Angel Rathod,Female,mca2504334,MCA,Sem 3,Prof. S. Joshi,Good,Below Average,Below Average,Good,Average,4
+17-01-2025,Session 3,250203,Data Warehousing,Pooja Desai,Male,mca2504335,MCA,Sem 3,Prof. N. Mehta,Average,Good,Excellent,Below Average,Good,5
+17-01-2025,Session 4,250204,Power BI,Nehal Desai,Male,mca2504336,MCA,Sem 3,Prof. A. Patel,Good,Below Average,Good,Excellent,Excellent,5
+17-01-2025,Session 4,250204,Power BI,Aadhya Desai,Male,mca2504337,MCA,Sem 3,Prof. N. Mehta,Good,Excellent,Average,Good,Below Average,3
+17-01-2025,Session 4,250204,Power BI,Pooja Mistry,Female,mca2504338,MCA,Sem 3,Prof. R. Shah,Excellent,Average,Average,Below Average,Excellent,4
+17-01-2025,Session 4,250204,Power BI,Sneha Thakur,Male,mca2504339,MCA,Sem 3,Prof. N. Mehta,Good,Good,Below Average,Below Average,Excellent,5
+17-01-2025,Session 4,250204,Power BI,Parth Sharma,Female,mca2504340,MCA,Sem 3,Prof. A. Patel,Average,Excellent,Average,Average,Good,3
+18-01-2025,Session 1,250201,IOT,Riya Gajjar,Male,mca2504341,MCA,Sem 3,Prof. N. Mehta,Good,Below Average,Average,Below Average,Excellent,4
+18-01-2025,Session 1,250201,IOT,Arjun Gohil,Female,mca2504342,MCA,Sem 3,Prof. R. Shah,Good,Good,Good,Below Average,Below Average,3
+18-01-2025,Session 1,250201,IOT,Tushar Panchal,Female,mca2504343,MCA,Sem 3,Prof. M. Desai,Excellent,Average,Average,Good,Good,4
+18-01-2025,Session 1,250201,IOT,Priya Parmar,Male,mca2504344,MCA,Sem 3,Prof. S. Joshi,Average,Below Average,Below Average,Average,Below Average,4
+18-01-2025,Session 1,250201,IOT,Angel Rathod,Male,mca2504345,MCA,Sem 3,Prof. M. Desai,Excellent,Average,Average,Average,Below Average,5
+18-01-2025,Session 2,250202,Foundation Of Data Science,Riya Thakur,Male,mca2504346,MCA,Sem 3,Prof. S. Joshi,Below Average,Below Average,Average,Excellent,Excellent,5
+18-01-2025,Session 2,250202,Foundation Of Data Science,Parth Makwana,Male,mca2504347,MCA,Sem 3,Prof. M. Desai,Good,Good,Average,Average,Good,5
+18-01-2025,Session 2,250202,Foundation Of Data Science,Tushar Panchal,Male,mca2504348,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Excellent,Good,Below Average,3
+18-01-2025,Session 2,250202,Foundation Of Data Science,Aaryan Rathod,Female,mca2504349,MCA,Sem 3,Prof. A. Patel,Good,Below Average,Good,Average,Below Average,4
+18-01-2025,Session 2,250202,Foundation Of Data Science,Arjun Chauhan,Male,mca2504350,MCA,Sem 3,Prof. A. Patel,Below Average,Excellent,Average,Good,Excellent,5
+18-01-2025,Session 3,250203,Data Warehousing,Anika Patel,Female,mca2504351,MCA,Sem 3,Prof. N. Mehta,Excellent,Average,Good,Good,Average,3
+18-01-2025,Session 3,250203,Data Warehousing,Pari Parmar,Female,mca2504352,MCA,Sem 3,Prof. R. Shah,Below Average,Average,Excellent,Below Average,Good,4
+18-01-2025,Session 3,250203,Data Warehousing,Amit Patel,Female,mca2504353,MCA,Sem 3,Prof. R. Shah,Good,Good,Good,Good,Below Average,3
+18-01-2025,Session 3,250203,Data Warehousing,Amit Jadeja,Male,mca2504354,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Average,Average,Average,3
+18-01-2025,Session 3,250203,Data Warehousing,Ananya Makwana,Male,mca2504355,MCA,Sem 3,Prof. S. Joshi,Average,Below Average,Below Average,Excellent,Good,3
+18-01-2025,Session 4,250204,Power BI,Aarav Parmar,Male,mca2504356,MCA,Sem 3,Prof. R. Shah,Average,Excellent,Average,Excellent,Good,3
+18-01-2025,Session 4,250204,Power BI,Suresh Gajjar,Male,mca2504357,MCA,Sem 3,Prof. A. Patel,Average,Below Average,Below Average,Excellent,Below Average,3
+18-01-2025,Session 4,250204,Power BI,Sanjay Shah,Female,mca2504358,MCA,Sem 3,Prof. M. Desai,Below Average,Good,Good,Good,Below Average,3
+18-01-2025,Session 4,250204,Power BI,Aavya Chauhan,Female,mca2504359,MCA,Sem 3,Prof. R. Shah,Excellent,Good,Below Average,Below Average,Excellent,5
+18-01-2025,Session 4,250204,Power BI,Rahul Yadav,Female,mca2504360,MCA,Sem 3,Prof. N. Mehta,Average,Good,Below Average,Below Average,Good,3
+19-01-2025,Session 1,250201,IOT,Yash Patel,Male,mca2504361,MCA,Sem 3,Prof. R. Shah,Good,Average,Below Average,Average,Excellent,3
+19-01-2025,Session 1,250201,IOT,Ansh Desai,Male,mca2504362,MCA,Sem 3,Prof. M. Desai,Excellent,Average,Average,Excellent,Good,3
+19-01-2025,Session 1,250201,IOT,Aavya Jadeja,Female,mca2504363,MCA,Sem 3,Prof. M. Desai,Good,Below Average,Good,Below Average,Average,4
+19-01-2025,Session 1,250201,IOT,Ansh Shah,Female,mca2504364,MCA,Sem 3,Prof. A. Patel,Good,Good,Average,Good,Good,4
+19-01-2025,Session 1,250201,IOT,Myra Chauhan,Female,mca2504365,MCA,Sem 3,Prof. A. Patel,Good,Excellent,Good,Below Average,Good,5
+19-01-2025,Session 2,250202,Foundation Of Data Science,Riya Makwana,Male,mca2504366,MCA,Sem 3,Prof. S. Joshi,Below Average,Good,Good,Average,Good,5
+19-01-2025,Session 2,250202,Foundation Of Data Science,Amit Gohil,Male,mca2504367,MCA,Sem 3,Prof. S. Joshi,Average,Excellent,Average,Average,Good,5
+19-01-2025,Session 2,250202,Foundation Of Data Science,Priya Chauhan,Male,mca2504368,MCA,Sem 3,Prof. N. Mehta,Below Average,Average,Good,Excellent,Average,3
+19-01-2025,Session 2,250202,Foundation Of Data Science,Sneha Joshi,Female,mca2504369,MCA,Sem 3,Prof. R. Shah,Average,Below Average,Good,Average,Average,5
+19-01-2025,Session 2,250202,Foundation Of Data Science,Angel Chauhan,Male,mca2504370,MCA,Sem 3,Prof. N. Mehta,Excellent,Good,Excellent,Good,Average,4
+19-01-2025,Session 3,250203,Data Warehousing,Bhavin Sharma,Female,mca2504371,MCA,Sem 3,Prof. S. Joshi,Good,Below Average,Average,Good,Average,3
+19-01-2025,Session 3,250203,Data Warehousing,Priya Mistry,Male,mca2504372,MCA,Sem 3,Prof. M. Desai,Excellent,Good,Excellent,Good,Below Average,5
+19-01-2025,Session 3,250203,Data Warehousing,Bhavin Mistry,Female,mca2504373,MCA,Sem 3,Prof. N. Mehta,Below Average,Average,Below Average,Good,Excellent,4
+19-01-2025,Session 3,250203,Data Warehousing,Tushar Desai,Female,mca2504374,MCA,Sem 3,Prof. M. Desai,Below Average,Average,Below Average,Below Average,Excellent,3
+19-01-2025,Session 3,250203,Data Warehousing,Hardik Jadeja,Female,mca2504375,MCA,Sem 3,Prof. M. Desai,Average,Excellent,Average,Excellent,Average,3
+19-01-2025,Session 4,250204,Power BI,Mehul Mehta,Female,mca2504376,MCA,Sem 3,Prof. M. Desai,Average,Excellent,Below Average,Below Average,Good,3
+19-01-2025,Session 4,250204,Power BI,Hardik Gajjar,Male,mca2504377,MCA,Sem 3,Prof. A. Patel,Good,Below Average,Average,Average,Below Average,5
+19-01-2025,Session 4,250204,Power BI,Pooja Shah,Male,mca2504378,MCA,Sem 3,Prof. A. Patel,Good,Good,Excellent,Excellent,Below Average,3
+19-01-2025,Session 4,250204,Power BI,Sanjay Solanki,Male,mca2504379,MCA,Sem 3,Prof. M. Desai,Below Average,Good,Good,Excellent,Average,5
+19-01-2025,Session 4,250204,Power BI,Yash Parmar,Female,mca2504380,MCA,Sem 3,Prof. S. Joshi,Good,Good,Good,Average,Average,3
+20-01-2025,Session 1,250201,IOT,Dharmesh Yadav,Female,mca2504381,MCA,Sem 3,Prof. A. Patel,Average,Average,Excellent,Good,Average,4
+20-01-2025,Session 1,250201,IOT,Pooja Makwana,Female,mca2504382,MCA,Sem 3,Prof. M. Desai,Below Average,Good,Good,Excellent,Excellent,5
+20-01-2025,Session 1,250201,IOT,Nehal Rathod,Female,mca2504383,MCA,Sem 3,Prof. N. Mehta,Good,Excellent,Good,Excellent,Good,3
+20-01-2025,Session 1,250201,IOT,Nehal Thakur,Female,mca2504384,MCA,Sem 3,Prof. S. Joshi,Good,Excellent,Below Average,Good,Below Average,5
+20-01-2025,Session 1,250201,IOT,Rajesh Desai,Female,mca2504385,MCA,Sem 3,Prof. A. Patel,Below Average,Good,Average,Good,Excellent,4
+20-01-2025,Session 2,250202,Foundation Of Data Science,Deep Chauhan,Male,mca2504386,MCA,Sem 3,Prof. R. Shah,Average,Excellent,Average,Average,Good,4
+20-01-2025,Session 2,250202,Foundation Of Data Science,Aavya Makwana,Male,mca2504387,MCA,Sem 3,Prof. A. Patel,Below Average,Average,Good,Average,Average,4
+20-01-2025,Session 2,250202,Foundation Of Data Science,Karan Gajjar,Male,mca2504388,MCA,Sem 3,Prof. R. Shah,Good,Excellent,Average,Good,Good,3
+20-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Thakur,Male,mca2504389,MCA,Sem 3,Prof. A. Patel,Average,Good,Average,Good,Excellent,3
+20-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Varma,Male,mca2504390,MCA,Sem 3,Prof. M. Desai,Below Average,Average,Below Average,Excellent,Good,4
+20-01-2025,Session 3,250203,Data Warehousing,Parth Chauhan,Female,mca2504391,MCA,Sem 3,Prof. M. Desai,Below Average,Excellent,Good,Good,Excellent,5
+20-01-2025,Session 3,250203,Data Warehousing,Ishaan Chauhan,Female,mca2504392,MCA,Sem 3,Prof. S. Joshi,Excellent,Below Average,Average,Good,Below Average,4
+20-01-2025,Session 3,250203,Data Warehousing,Pari Solanki,Female,mca2504393,MCA,Sem 3,Prof. N. Mehta,Good,Below Average,Average,Excellent,Good,4
+20-01-2025,Session 3,250203,Data Warehousing,Myra Gajjar,Female,mca2504394,MCA,Sem 3,Prof. S. Joshi,Good,Excellent,Good,Excellent,Below Average,3
+20-01-2025,Session 3,250203,Data Warehousing,Angel Panchal,Female,mca2504395,MCA,Sem 3,Prof. R. Shah,Below Average,Average,Below Average,Average,Average,3
+20-01-2025,Session 4,250204,Power BI,Bhavin Gajjar,Male,mca2504396,MCA,Sem 3,Prof. N. Mehta,Good,Excellent,Average,Good,Average,5
+20-01-2025,Session 4,250204,Power BI,Krishna Patel,Male,mca2504397,MCA,Sem 3,Prof. S. Joshi,Below Average,Average,Good,Excellent,Good,3
+20-01-2025,Session 4,250204,Power BI,Myra Thakur,Male,mca2504398,MCA,Sem 3,Prof. A. Patel,Excellent,Below Average,Good,Excellent,Below Average,5
+20-01-2025,Session 4,250204,Power BI,Aditya Patel,Female,mca2504399,MCA,Sem 3,Prof. N. Mehta,Average,Good,Good,Average,Average,5
+20-01-2025,Session 4,250204,Power BI,Aditya Chauhan,Female,mca2504400,MCA,Sem 3,Prof. S. Joshi,Below Average,Good,Good,Excellent,Average,4
+21-01-2025,Session 1,250201,IOT,Vikram Chauhan,Male,mca2504401,MCA,Sem 4,Prof. R. Shah,Excellent,Good,Average,Below Average,Below Average,4
+21-01-2025,Session 1,250201,IOT,Aavya Parmar,Female,mca2504402,MCA,Sem 4,Prof. M. Desai,Below Average,Average,Average,Average,Excellent,5
+21-01-2025,Session 1,250201,IOT,Bhavin Solanki,Female,mca2504403,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Average,Excellent,Average,3
+21-01-2025,Session 1,250201,IOT,Suresh Jadeja,Male,mca2504404,MCA,Sem 4,Prof. R. Shah,Below Average,Average,Average,Below Average,Average,5
+21-01-2025,Session 1,250201,IOT,Pooja Varma,Male,mca2504405,MCA,Sem 4,Prof. R. Shah,Below Average,Excellent,Good,Good,Excellent,5
+21-01-2025,Session 2,250202,Foundation Of Data Science,Riya Parmar,Female,mca2504406,MCA,Sem 4,Prof. A. Patel,Excellent,Average,Good,Good,Below Average,5
+21-01-2025,Session 2,250202,Foundation Of Data Science,Aaryan Gohil,Male,mca2504407,MCA,Sem 4,Prof. N. Mehta,Good,Below Average,Below Average,Good,Below Average,3
+21-01-2025,Session 2,250202,Foundation Of Data Science,Aadhya Desai,Female,mca2504408,MCA,Sem 4,Prof. R. Shah,Excellent,Excellent,Average,Average,Below Average,3
+21-01-2025,Session 2,250202,Foundation Of Data Science,Vivaan Yadav,Male,mca2504409,MCA,Sem 4,Prof. A. Patel,Good,Average,Average,Good,Average,4
+21-01-2025,Session 2,250202,Foundation Of Data Science,Vikram Thakur,Female,mca2504410,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Average,Below Average,Good,5
+21-01-2025,Session 3,250203,Data Warehousing,Priya Parmar,Female,mca2504411,MCA,Sem 4,Prof. S. Joshi,Excellent,Average,Average,Good,Average,3
+21-01-2025,Session 3,250203,Data Warehousing,Yash Joshi,Female,mca2504412,MCA,Sem 4,Prof. A. Patel,Below Average,Good,Average,Excellent,Good,3
+21-01-2025,Session 3,250203,Data Warehousing,Rajesh Patel,Female,mca2504413,MCA,Sem 4,Prof. S. Joshi,Excellent,Good,Average,Below Average,Below Average,5
+21-01-2025,Session 3,250203,Data Warehousing,Saanvi Panchal,Male,mca2504414,MCA,Sem 4,Prof. A. Patel,Average,Below Average,Excellent,Below Average,Excellent,4
+21-01-2025,Session 3,250203,Data Warehousing,Yash Mehta,Male,mca2504415,MCA,Sem 4,Prof. M. Desai,Average,Good,Below Average,Good,Good,5
+21-01-2025,Session 4,250204,Power BI,Riya Parmar,Female,mca2504416,MCA,Sem 4,Prof. R. Shah,Excellent,Good,Average,Good,Excellent,4
+21-01-2025,Session 4,250204,Power BI,Vikram Rathod,Male,mca2504417,MCA,Sem 4,Prof. R. Shah,Good,Excellent,Good,Excellent,Excellent,5
+21-01-2025,Session 4,250204,Power BI,Aryan Sharma,Male,mca2504418,MCA,Sem 4,Prof. N. Mehta,Below Average,Excellent,Average,Average,Average,3
+21-01-2025,Session 4,250204,Power BI,Riya Shah,Male,mca2504419,MCA,Sem 4,Prof. S. Joshi,Below Average,Below Average,Good,Below Average,Below Average,3
+21-01-2025,Session 4,250204,Power BI,Aarav Gohil,Female,mca2504420,MCA,Sem 4,Prof. M. Desai,Below Average,Average,Good,Good,Average,3
+22-01-2025,Session 1,250201,IOT,Myra Patel,Male,mca2504421,MCA,Sem 4,Prof. R. Shah,Good,Good,Below Average,Below Average,Excellent,3
+22-01-2025,Session 1,250201,IOT,Bhavin Desai,Male,mca2504422,MCA,Sem 4,Prof. N. Mehta,Good,Good,Below Average,Below Average,Average,3
+22-01-2025,Session 1,250201,IOT,Vikram Solanki,Female,mca2504423,MCA,Sem 4,Prof. M. Desai,Excellent,Excellent,Good,Average,Excellent,5
+22-01-2025,Session 1,250201,IOT,Aadhya Makwana,Female,mca2504424,MCA,Sem 4,Prof. A. Patel,Excellent,Average,Excellent,Average,Excellent,4
+22-01-2025,Session 1,250201,IOT,Arjun Vaghela,Female,mca2504425,MCA,Sem 4,Prof. A. Patel,Excellent,Below Average,Average,Excellent,Average,5
+22-01-2025,Session 2,250202,Foundation Of Data Science,Dharmesh Vaghela,Female,mca2504426,MCA,Sem 4,Prof. N. Mehta,Average,Below Average,Good,Excellent,Average,3
+22-01-2025,Session 2,250202,Foundation Of Data Science,Mehul Patel,Female,mca2504427,MCA,Sem 4,Prof. S. Joshi,Average,Excellent,Good,Average,Below Average,3
+22-01-2025,Session 2,250202,Foundation Of Data Science,Deep Gajjar,Female,mca2504428,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Excellent,Excellent,Below Average,3
+22-01-2025,Session 2,250202,Foundation Of Data Science,Aryan Sharma,Female,mca2504429,MCA,Sem 4,Prof. A. Patel,Average,Below Average,Good,Excellent,Below Average,4
+22-01-2025,Session 2,250202,Foundation Of Data Science,Bhavin Solanki,Female,mca2504430,MCA,Sem 4,Prof. A. Patel,Average,Good,Excellent,Good,Below Average,4
+22-01-2025,Session 3,250203,Data Warehousing,Yash Varma,Female,mca2504431,MCA,Sem 4,Prof. N. Mehta,Good,Good,Excellent,Excellent,Below Average,5
+22-01-2025,Session 3,250203,Data Warehousing,Pari Makwana,Male,mca2504432,MCA,Sem 4,Prof. M. Desai,Below Average,Average,Excellent,Below Average,Excellent,3
+22-01-2025,Session 3,250203,Data Warehousing,Aadhya Mistry,Male,mca2504433,MCA,Sem 4,Prof. N. Mehta,Average,Average,Excellent,Good,Excellent,5
+22-01-2025,Session 3,250203,Data Warehousing,Karan Gajjar,Male,mca2504434,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Average,Good,Excellent,5
+22-01-2025,Session 3,250203,Data Warehousing,Rahul Sharma,Female,mca2504435,MCA,Sem 4,Prof. A. Patel,Below Average,Average,Excellent,Good,Average,5
+22-01-2025,Session 4,250204,Power BI,Myra Varma,Female,mca2504436,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Good,Excellent,Good,5
+22-01-2025,Session 4,250204,Power BI,Sneha Desai,Male,mca2504437,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Below Average,Below Average,Average,3
+22-01-2025,Session 4,250204,Power BI,Vivaan Makwana,Female,mca2504438,MCA,Sem 4,Prof. R. Shah,Average,Excellent,Good,Excellent,Below Average,5
+22-01-2025,Session 4,250204,Power BI,Aarav Gajjar,Female,mca2504439,MCA,Sem 4,Prof. S. Joshi,Below Average,Below Average,Good,Excellent,Good,5
+22-01-2025,Session 4,250204,Power BI,Arjun Yadav,Male,mca2504440,MCA,Sem 4,Prof. M. Desai,Excellent,Below Average,Excellent,Excellent,Good,3
+23-01-2025,Session 1,250201,IOT,Deep Sharma,Male,mca2504441,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Below Average,Below Average,Excellent,5
+23-01-2025,Session 1,250201,IOT,Pari Vaghela,Female,mca2504442,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Excellent,Below Average,Average,4
+23-01-2025,Session 1,250201,IOT,Mehul Solanki,Male,mca2504443,MCA,Sem 4,Prof. S. Joshi,Average,Excellent,Average,Average,Average,4
+23-01-2025,Session 1,250201,IOT,Aarav Shah,Female,mca2504444,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Excellent,Good,Below Average,5
+23-01-2025,Session 1,250201,IOT,Rajesh Mistry,Female,mca2504445,MCA,Sem 4,Prof. N. Mehta,Good,Below Average,Good,Good,Excellent,5
+23-01-2025,Session 2,250202,Foundation Of Data Science,Aarav Yadav,Male,mca2504446,MCA,Sem 4,Prof. N. Mehta,Excellent,Good,Average,Excellent,Excellent,3
+23-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Gajjar,Male,mca2504447,MCA,Sem 4,Prof. M. Desai,Good,Good,Good,Excellent,Good,3
+23-01-2025,Session 2,250202,Foundation Of Data Science,Suresh Gohil,Female,mca2504448,MCA,Sem 4,Prof. N. Mehta,Average,Below Average,Good,Average,Average,4
+23-01-2025,Session 2,250202,Foundation Of Data Science,Mehul Parmar,Female,mca2504449,MCA,Sem 4,Prof. M. Desai,Average,Average,Excellent,Good,Good,5
+23-01-2025,Session 2,250202,Foundation Of Data Science,Nehal Sharma,Male,mca2504450,MCA,Sem 4,Prof. N. Mehta,Good,Good,Below Average,Average,Average,5
+23-01-2025,Session 3,250203,Data Warehousing,Rajesh Makwana,Female,mca2504451,MCA,Sem 4,Prof. R. Shah,Excellent,Below Average,Below Average,Average,Good,3
+23-01-2025,Session 3,250203,Data Warehousing,Diya Yadav,Male,mca2504452,MCA,Sem 4,Prof. S. Joshi,Below Average,Below Average,Excellent,Average,Good,3
+23-01-2025,Session 3,250203,Data Warehousing,Aarav Rathod,Male,mca2504453,MCA,Sem 4,Prof. M. Desai,Average,Average,Average,Below Average,Good,5
+23-01-2025,Session 3,250203,Data Warehousing,Ananya Chauhan,Male,mca2504454,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Good,Excellent,Excellent,5
+23-01-2025,Session 3,250203,Data Warehousing,Sanjay Jadeja,Male,mca2504455,MCA,Sem 4,Prof. R. Shah,Below Average,Average,Below Average,Excellent,Good,5
+23-01-2025,Session 4,250204,Power BI,Parth Thakur,Male,mca2504456,MCA,Sem 4,Prof. A. Patel,Good,Excellent,Good,Excellent,Average,4
+23-01-2025,Session 4,250204,Power BI,Aavya Parmar,Female,mca2504457,MCA,Sem 4,Prof. M. Desai,Below Average,Below Average,Below Average,Excellent,Excellent,3
+23-01-2025,Session 4,250204,Power BI,Pari Gohil,Female,mca2504458,MCA,Sem 4,Prof. N. Mehta,Average,Good,Excellent,Below Average,Below Average,5
+23-01-2025,Session 4,250204,Power BI,Karan Panchal,Male,mca2504459,MCA,Sem 4,Prof. N. Mehta,Below Average,Good,Excellent,Good,Below Average,4
+23-01-2025,Session 4,250204,Power BI,Ishaan Rathod,Female,mca2504460,MCA,Sem 4,Prof. S. Joshi,Good,Good,Excellent,Good,Average,3
+24-01-2025,Session 1,250201,IOT,Pooja Gohil,Female,mca2504461,MCA,Sem 4,Prof. R. Shah,Good,Below Average,Below Average,Average,Good,4
+24-01-2025,Session 1,250201,IOT,Vikram Desai,Male,mca2504462,MCA,Sem 4,Prof. N. Mehta,Average,Good,Average,Below Average,Below Average,5
+24-01-2025,Session 1,250201,IOT,Aditya Solanki,Female,mca2504463,MCA,Sem 4,Prof. R. Shah,Excellent,Excellent,Below Average,Below Average,Excellent,4
+24-01-2025,Session 1,250201,IOT,Parth Gajjar,Female,mca2504464,MCA,Sem 4,Prof. R. Shah,Below Average,Below Average,Excellent,Good,Average,5
+24-01-2025,Session 1,250201,IOT,Navya Jadeja,Male,mca2504465,MCA,Sem 4,Prof. N. Mehta,Good,Good,Excellent,Excellent,Below Average,4
+24-01-2025,Session 2,250202,Foundation Of Data Science,Ansh Sharma,Male,mca2504466,MCA,Sem 4,Prof. M. Desai,Below Average,Below Average,Average,Average,Excellent,5
+24-01-2025,Session 2,250202,Foundation Of Data Science,Arjun Desai,Male,mca2504467,MCA,Sem 4,Prof. R. Shah,Average,Good,Excellent,Average,Average,4
+24-01-2025,Session 2,250202,Foundation Of Data Science,Aryan Parmar,Male,mca2504468,MCA,Sem 4,Prof. R. Shah,Average,Excellent,Excellent,Excellent,Below Average,3
+24-01-2025,Session 2,250202,Foundation Of Data Science,Pari Panchal,Male,mca2504469,MCA,Sem 4,Prof. R. Shah,Good,Good,Good,Excellent,Below Average,4
+24-01-2025,Session 2,250202,Foundation Of Data Science,Aditya Rathod,Male,mca2504470,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Good,Average,Below Average,3
+24-01-2025,Session 3,250203,Data Warehousing,Rajesh Desai,Female,mca2504471,MCA,Sem 4,Prof. A. Patel,Excellent,Below Average,Average,Good,Below Average,5
+24-01-2025,Session 3,250203,Data Warehousing,Mehul Mehta,Male,mca2504472,MCA,Sem 4,Prof. A. Patel,Average,Average,Good,Below Average,Average,4
+24-01-2025,Session 3,250203,Data Warehousing,Dharmesh Rathod,Female,mca2504473,MCA,Sem 4,Prof. A. Patel,Excellent,Below Average,Average,Average,Average,5
+24-01-2025,Session 3,250203,Data Warehousing,Aryan Gajjar,Female,mca2504474,MCA,Sem 4,Prof. R. Shah,Below Average,Good,Below Average,Below Average,Below Average,4
+24-01-2025,Session 3,250203,Data Warehousing,Rahul Solanki,Male,mca2504475,MCA,Sem 4,Prof. M. Desai,Below Average,Excellent,Below Average,Below Average,Good,5
+24-01-2025,Session 4,250204,Power BI,Aavya Makwana,Female,mca2504476,MCA,Sem 4,Prof. R. Shah,Below Average,Average,Average,Excellent,Average,4
+24-01-2025,Session 4,250204,Power BI,Myra Gajjar,Male,mca2504477,MCA,Sem 4,Prof. N. Mehta,Below Average,Average,Average,Average,Good,5
+24-01-2025,Session 4,250204,Power BI,Vikram Solanki,Male,mca2504478,MCA,Sem 4,Prof. N. Mehta,Average,Excellent,Good,Below Average,Average,3
+24-01-2025,Session 4,250204,Power BI,Aaryan Vaghela,Female,mca2504479,MCA,Sem 4,Prof. A. Patel,Good,Below Average,Average,Average,Below Average,4
+24-01-2025,Session 4,250204,Power BI,Ishaan Gajjar,Female,mca2504480,MCA,Sem 4,Prof. A. Patel,Excellent,Excellent,Good,Average,Excellent,4
+25-01-2025,Session 1,250201,IOT,Myra Shah,Male,mca2504481,MCA,Sem 4,Prof. A. Patel,Excellent,Average,Average,Average,Good,4
+25-01-2025,Session 1,250201,IOT,Riya Sharma,Female,mca2504482,MCA,Sem 4,Prof. R. Shah,Average,Excellent,Below Average,Excellent,Good,5
+25-01-2025,Session 1,250201,IOT,Riya Joshi,Male,mca2504483,MCA,Sem 4,Prof. S. Joshi,Good,Excellent,Below Average,Below Average,Below Average,3
+25-01-2025,Session 1,250201,IOT,Arjun Solanki,Female,mca2504484,MCA,Sem 4,Prof. A. Patel,Excellent,Average,Average,Good,Below Average,3
+25-01-2025,Session 1,250201,IOT,Ansh Mistry,Female,mca2504485,MCA,Sem 4,Prof. R. Shah,Good,Average,Excellent,Good,Below Average,4
+25-01-2025,Session 2,250202,Foundation Of Data Science,Bhavin Parmar,Male,mca2504486,MCA,Sem 4,Prof. N. Mehta,Good,Average,Excellent,Good,Below Average,4
+25-01-2025,Session 2,250202,Foundation Of Data Science,Tushar Varma,Male,mca2504487,MCA,Sem 4,Prof. N. Mehta,Excellent,Average,Excellent,Good,Average,5
+25-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Solanki,Male,mca2504488,MCA,Sem 4,Prof. A. Patel,Good,Excellent,Excellent,Excellent,Below Average,5
+25-01-2025,Session 2,250202,Foundation Of Data Science,Priya Mehta,Male,mca2504489,MCA,Sem 4,Prof. R. Shah,Good,Excellent,Below Average,Average,Average,3
+25-01-2025,Session 2,250202,Foundation Of Data Science,Tushar Solanki,Male,mca2504490,MCA,Sem 4,Prof. S. Joshi,Below Average,Good,Good,Average,Good,4
+25-01-2025,Session 3,250203,Data Warehousing,Vikram Gohil,Female,mca2504491,MCA,Sem 4,Prof. S. Joshi,Good,Average,Average,Average,Average,4
+25-01-2025,Session 3,250203,Data Warehousing,Aadhya Rathod,Female,mca2504492,MCA,Sem 4,Prof. R. Shah,Excellent,Good,Below Average,Excellent,Below Average,5
+25-01-2025,Session 3,250203,Data Warehousing,Saanvi Thakur,Female,mca2504493,MCA,Sem 4,Prof. M. Desai,Below Average,Below Average,Below Average,Average,Below Average,3
+25-01-2025,Session 3,250203,Data Warehousing,Sanjay Thakur,Female,mca2504494,MCA,Sem 4,Prof. R. Shah,Good,Below Average,Average,Good,Excellent,5
+25-01-2025,Session 3,250203,Data Warehousing,Priya Parmar,Female,mca2504495,MCA,Sem 4,Prof. S. Joshi,Below Average,Good,Good,Good,Below Average,4
+25-01-2025,Session 4,250204,Power BI,Navya Thakur,Female,mca2504496,MCA,Sem 4,Prof. M. Desai,Below Average,Excellent,Average,Average,Below Average,4
+25-01-2025,Session 4,250204,Power BI,Deep Makwana,Male,mca2504497,MCA,Sem 4,Prof. N. Mehta,Excellent,Average,Below Average,Excellent,Excellent,3
+25-01-2025,Session 4,250204,Power BI,Aadhya Mistry,Female,mca2504498,MCA,Sem 4,Prof. S. Joshi,Good,Good,Average,Excellent,Excellent,5
+25-01-2025,Session 4,250204,Power BI,Nehal Jadeja,Male,mca2504499,MCA,Sem 4,Prof. S. Joshi,Good,Excellent,Below Average,Excellent,Below Average,3
+25-01-2025,Session 4,250204,Power BI,Navya Thakur,Male,mca2504500,MCA,Sem 4,Prof. R. Shah,Below Average,Excellent,Excellent,Excellent,Excellent,5
+26-01-2025,Session 1,250201,IOT,Ansh Solanki,Female,mca2504501,MCA,Sem 4,Prof. N. Mehta,Below Average,Average,Below Average,Average,Excellent,3
+26-01-2025,Session 1,250201,IOT,Deep Gajjar,Male,mca2504502,MCA,Sem 4,Prof. S. Joshi,Average,Good,Average,Average,Below Average,5
+26-01-2025,Session 1,250201,IOT,Tushar Parmar,Male,mca2504503,MCA,Sem 4,Prof. A. Patel,Excellent,Average,Average,Average,Below Average,4
+26-01-2025,Session 1,250201,IOT,Aavya Parmar,Male,mca2504504,MCA,Sem 4,Prof. A. Patel,Good,Good,Below Average,Good,Excellent,3
+26-01-2025,Session 1,250201,IOT,Aryan Panchal,Female,mca2504505,MCA,Sem 4,Prof. N. Mehta,Average,Below Average,Excellent,Average,Good,3
+26-01-2025,Session 2,250202,Foundation Of Data Science,Vikram Panchal,Female,mca2504506,MCA,Sem 4,Prof. A. Patel,Good,Average,Average,Average,Good,3
+26-01-2025,Session 2,250202,Foundation Of Data Science,Rajesh Thakur,Female,mca2504507,MCA,Sem 4,Prof. N. Mehta,Below Average,Below Average,Good,Average,Excellent,5
+26-01-2025,Session 2,250202,Foundation Of Data Science,Aavya Makwana,Male,mca2504508,MCA,Sem 4,Prof. S. Joshi,Below Average,Excellent,Average,Below Average,Average,4
+26-01-2025,Session 2,250202,Foundation Of Data Science,Rahul Jadeja,Male,mca2504509,MCA,Sem 4,Prof. N. Mehta,Below Average,Average,Average,Good,Excellent,5
+26-01-2025,Session 2,250202,Foundation Of Data Science,Ananya Patel,Male,mca2504510,MCA,Sem 4,Prof. R. Shah,Good,Average,Below Average,Below Average,Below Average,3
+26-01-2025,Session 3,250203,Data Warehousing,Rajesh Varma,Female,mca2504511,MCA,Sem 4,Prof. N. Mehta,Average,Excellent,Average,Average,Good,3
+26-01-2025,Session 3,250203,Data Warehousing,Ananya Sharma,Male,mca2504512,MCA,Sem 4,Prof. S. Joshi,Good,Good,Below Average,Good,Below Average,3
+26-01-2025,Session 3,250203,Data Warehousing,Sai Thakur,Male,mca2504513,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Good,Average,Average,5
+26-01-2025,Session 3,250203,Data Warehousing,Yash Panchal,Female,mca2504514,MCA,Sem 4,Prof. M. Desai,Average,Below Average,Below Average,Below Average,Good,5
+26-01-2025,Session 3,250203,Data Warehousing,Ansh Sharma,Male,mca2504515,MCA,Sem 4,Prof. N. Mehta,Good,Good,Average,Average,Good,3
+26-01-2025,Session 4,250204,Power BI,Yash Desai,Male,mca2504516,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Below Average,Good,Below Average,4
+26-01-2025,Session 4,250204,Power BI,Krishna Gohil,Female,mca2504517,MCA,Sem 4,Prof. A. Patel,Good,Below Average,Excellent,Below Average,Average,5
+26-01-2025,Session 4,250204,Power BI,Ishaan Rathod,Female,mca2504518,MCA,Sem 4,Prof. R. Shah,Excellent,Average,Good,Excellent,Average,3
+26-01-2025,Session 4,250204,Power BI,Deep Solanki,Female,mca2504519,MCA,Sem 4,Prof. R. Shah,Below Average,Good,Good,Good,Excellent,3
+26-01-2025,Session 4,250204,Power BI,Aditya Jadeja,Female,mca2504520,MCA,Sem 4,Prof. N. Mehta,Good,Below Average,Below Average,Average,Average,3
+27-01-2025,Session 1,250201,IOT,Vikram Chauhan,Male,mca2504521,MCA,Sem 4,Prof. N. Mehta,Average,Below Average,Average,Below Average,Excellent,5
+27-01-2025,Session 1,250201,IOT,Aadhya Chauhan,Female,mca2504522,MCA,Sem 4,Prof. R. Shah,Average,Good,Average,Excellent,Average,4
+27-01-2025,Session 1,250201,IOT,Aadhya Varma,Male,mca2504523,MCA,Sem 4,Prof. S. Joshi,Good,Average,Below Average,Average,Average,5
+27-01-2025,Session 1,250201,IOT,Vikram Rathod,Male,mca2504524,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Average,Average,Below Average,4
+27-01-2025,Session 1,250201,IOT,Ansh Varma,Male,mca2504525,MCA,Sem 4,Prof. S. Joshi,Excellent,Below Average,Excellent,Good,Good,4
+27-01-2025,Session 2,250202,Foundation Of Data Science,Dharmesh Parmar,Female,mca2504526,MCA,Sem 4,Prof. N. Mehta,Average,Excellent,Excellent,Excellent,Good,5
+27-01-2025,Session 2,250202,Foundation Of Data Science,Bhavin Mistry,Female,mca2504527,MCA,Sem 4,Prof. A. Patel,Excellent,Good,Good,Excellent,Average,5
+27-01-2025,Session 2,250202,Foundation Of Data Science,Priya Vaghela,Male,mca2504528,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Good,Good,Excellent,4
+27-01-2025,Session 2,250202,Foundation Of Data Science,Dharmesh Solanki,Male,mca2504529,MCA,Sem 4,Prof. N. Mehta,Below Average,Below Average,Below Average,Excellent,Below Average,4
+27-01-2025,Session 2,250202,Foundation Of Data Science,Ansh Sharma,Female,mca2504530,MCA,Sem 4,Prof. R. Shah,Below Average,Average,Below Average,Good,Good,5
+27-01-2025,Session 3,250203,Data Warehousing,Karan Mehta,Female,mca2504531,MCA,Sem 4,Prof. R. Shah,Below Average,Good,Below Average,Average,Below Average,4
+27-01-2025,Session 3,250203,Data Warehousing,Pari Mehta,Female,mca2504532,MCA,Sem 4,Prof. M. Desai,Excellent,Below Average,Good,Excellent,Below Average,3
+27-01-2025,Session 3,250203,Data Warehousing,Sneha Joshi,Male,mca2504533,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Average,Excellent,Below Average,3
+27-01-2025,Session 3,250203,Data Warehousing,Ananya Mehta,Male,mca2504534,MCA,Sem 4,Prof. N. Mehta,Excellent,Average,Good,Average,Below Average,5
+27-01-2025,Session 3,250203,Data Warehousing,Angel Patel,Female,mca2504535,MCA,Sem 4,Prof. S. Joshi,Below Average,Below Average,Below Average,Average,Good,5
+27-01-2025,Session 4,250204,Power BI,Saanvi Shah,Female,mca2504536,MCA,Sem 4,Prof. S. Joshi,Average,Average,Average,Good,Average,4
+27-01-2025,Session 4,250204,Power BI,Suresh Gohil,Male,mca2504537,MCA,Sem 4,Prof. A. Patel,Good,Average,Average,Below Average,Below Average,5
+27-01-2025,Session 4,250204,Power BI,Pooja Joshi,Male,mca2504538,MCA,Sem 4,Prof. S. Joshi,Good,Excellent,Average,Below Average,Average,5
+27-01-2025,Session 4,250204,Power BI,Aadhya Parmar,Female,mca2504539,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Average,Below Average,Below Average,5
+27-01-2025,Session 4,250204,Power BI,Krishna Gajjar,Female,mca2504540,MCA,Sem 4,Prof. N. Mehta,Below Average,Good,Below Average,Average,Below Average,5
+28-01-2025,Session 1,250201,IOT,Vikram Mistry,Female,mca2504541,MCA,Sem 4,Prof. A. Patel,Average,Excellent,Average,Excellent,Excellent,4
+28-01-2025,Session 1,250201,IOT,Ishaan Jadeja,Female,mca2504542,MCA,Sem 4,Prof. M. Desai,Average,Average,Below Average,Average,Good,4
+28-01-2025,Session 1,250201,IOT,Angel Vaghela,Female,mca2504543,MCA,Sem 4,Prof. M. Desai,Good,Below Average,Below Average,Excellent,Below Average,3
+28-01-2025,Session 1,250201,IOT,Ananya Makwana,Female,mca2504544,MCA,Sem 4,Prof. S. Joshi,Excellent,Below Average,Below Average,Good,Excellent,5
+28-01-2025,Session 1,250201,IOT,Myra Rathod,Female,mca2504545,MCA,Sem 4,Prof. M. Desai,Good,Good,Below Average,Average,Good,3
+28-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Thakur,Female,mca2504546,MCA,Sem 4,Prof. R. Shah,Average,Average,Good,Excellent,Good,5
+28-01-2025,Session 2,250202,Foundation Of Data Science,Navya Vaghela,Female,mca2504547,MCA,Sem 4,Prof. S. Joshi,Average,Average,Below Average,Excellent,Good,4
+28-01-2025,Session 2,250202,Foundation Of Data Science,Aryan Gohil,Male,mca2504548,MCA,Sem 4,Prof. N. Mehta,Below Average,Average,Excellent,Good,Good,4
+28-01-2025,Session 2,250202,Foundation Of Data Science,Aarav Solanki,Male,mca2504549,MCA,Sem 4,Prof. N. Mehta,Good,Good,Good,Good,Average,3
+28-01-2025,Session 2,250202,Foundation Of Data Science,Deep Rathod,Male,mca2504550,MCA,Sem 4,Prof. M. Desai,Average,Good,Average,Below Average,Average,4
+28-01-2025,Session 3,250203,Data Warehousing,Hardik Mehta,Male,mca2504551,MCA,Sem 4,Prof. S. Joshi,Below Average,Average,Excellent,Average,Average,3
+28-01-2025,Session 3,250203,Data Warehousing,Yash Jadeja,Female,mca2504552,MCA,Sem 4,Prof. A. Patel,Average,Below Average,Average,Average,Average,5
+28-01-2025,Session 3,250203,Data Warehousing,Ananya Shah,Male,mca2504553,MCA,Sem 4,Prof. R. Shah,Average,Good,Good,Good,Below Average,5
+28-01-2025,Session 3,250203,Data Warehousing,Aaryan Gohil,Male,mca2504554,MCA,Sem 4,Prof. A. Patel,Good,Excellent,Good,Good,Excellent,4
+28-01-2025,Session 3,250203,Data Warehousing,Ananya Yadav,Male,mca2504555,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Excellent,Good,Average,3
+28-01-2025,Session 4,250204,Power BI,Rahul Parmar,Female,mca2504556,MCA,Sem 4,Prof. S. Joshi,Good,Excellent,Excellent,Average,Excellent,5
+28-01-2025,Session 4,250204,Power BI,Rajesh Joshi,Male,mca2504557,MCA,Sem 4,Prof. R. Shah,Good,Average,Good,Good,Excellent,4
+28-01-2025,Session 4,250204,Power BI,Navya Sharma,Female,mca2504558,MCA,Sem 4,Prof. R. Shah,Excellent,Below Average,Average,Average,Excellent,5
+28-01-2025,Session 4,250204,Power BI,Krishna Chauhan,Female,mca2504559,MCA,Sem 4,Prof. M. Desai,Below Average,Average,Excellent,Good,Below Average,4
+28-01-2025,Session 4,250204,Power BI,Amit Gajjar,Male,mca2504560,MCA,Sem 4,Prof. R. Shah,Below Average,Below Average,Below Average,Excellent,Below Average,3
+29-01-2025,Session 1,250201,IOT,Amit Panchal,Female,mca2504561,MCA,Sem 4,Prof. M. Desai,Good,Average,Good,Average,Good,5
+29-01-2025,Session 1,250201,IOT,Ansh Makwana,Male,mca2504562,MCA,Sem 4,Prof. S. Joshi,Good,Good,Average,Good,Below Average,3
+29-01-2025,Session 1,250201,IOT,Tushar Sharma,Female,mca2504563,MCA,Sem 4,Prof. M. Desai,Average,Good,Below Average,Below Average,Average,5
+29-01-2025,Session 1,250201,IOT,Krishna Desai,Female,mca2504564,MCA,Sem 4,Prof. A. Patel,Below Average,Below Average,Below Average,Good,Excellent,5
+29-01-2025,Session 1,250201,IOT,Krishna Rathod,Male,mca2504565,MCA,Sem 4,Prof. S. Joshi,Below Average,Average,Good,Good,Average,5
+29-01-2025,Session 2,250202,Foundation Of Data Science,Saanvi Rathod,Female,mca2504566,MCA,Sem 4,Prof. S. Joshi,Below Average,Average,Average,Average,Below Average,4
+29-01-2025,Session 2,250202,Foundation Of Data Science,Aadhya Sharma,Male,mca2504567,MCA,Sem 4,Prof. A. Patel,Excellent,Excellent,Below Average,Good,Average,4
+29-01-2025,Session 2,250202,Foundation Of Data Science,Aditya Rathod,Male,mca2504568,MCA,Sem 4,Prof. S. Joshi,Excellent,Average,Average,Below Average,Average,4
+29-01-2025,Session 2,250202,Foundation Of Data Science,Myra Mehta,Female,mca2504569,MCA,Sem 4,Prof. N. Mehta,Below Average,Good,Average,Good,Excellent,4
+29-01-2025,Session 2,250202,Foundation Of Data Science,Diya Gajjar,Male,mca2504570,MCA,Sem 4,Prof. M. Desai,Good,Below Average,Below Average,Excellent,Below Average,5
+29-01-2025,Session 3,250203,Data Warehousing,Deep Varma,Female,mca2504571,MCA,Sem 4,Prof. A. Patel,Good,Average,Good,Good,Average,5
+29-01-2025,Session 3,250203,Data Warehousing,Ansh Rathod,Female,mca2504572,MCA,Sem 4,Prof. M. Desai,Below Average,Good,Average,Average,Average,4
+29-01-2025,Session 3,250203,Data Warehousing,Pari Mistry,Female,mca2504573,MCA,Sem 4,Prof. N. Mehta,Average,Average,Average,Average,Good,5
+29-01-2025,Session 3,250203,Data Warehousing,Riya Gohil,Male,mca2504574,MCA,Sem 4,Prof. R. Shah,Average,Average,Below Average,Excellent,Excellent,3
+29-01-2025,Session 3,250203,Data Warehousing,Rahul Varma,Female,mca2504575,MCA,Sem 4,Prof. R. Shah,Excellent,Good,Average,Below Average,Good,4
+29-01-2025,Session 4,250204,Power BI,Pooja Sharma,Male,mca2504576,MCA,Sem 4,Prof. R. Shah,Good,Good,Below Average,Average,Average,5
+29-01-2025,Session 4,250204,Power BI,Ananya Gajjar,Female,mca2504577,MCA,Sem 4,Prof. M. Desai,Good,Average,Average,Average,Average,3
+29-01-2025,Session 4,250204,Power BI,Deep Yadav,Male,mca2504578,MCA,Sem 4,Prof. R. Shah,Excellent,Good,Below Average,Excellent,Good,3
+29-01-2025,Session 4,250204,Power BI,Mehul Thakur,Male,mca2504579,MCA,Sem 4,Prof. S. Joshi,Below Average,Below Average,Below Average,Excellent,Average,4
+29-01-2025,Session 4,250204,Power BI,Suresh Patel,Female,mca2504580,MCA,Sem 4,Prof. M. Desai,Excellent,Excellent,Below Average,Good,Good,4
+30-01-2025,Session 1,250201,IOT,Priya Vaghela,Male,mca2504581,MCA,Sem 4,Prof. M. Desai,Below Average,Below Average,Excellent,Average,Excellent,3
+30-01-2025,Session 1,250201,IOT,Amit Thakur,Female,mca2504582,MCA,Sem 4,Prof. A. Patel,Average,Average,Good,Average,Below Average,3
+30-01-2025,Session 1,250201,IOT,Bhavin Solanki,Female,mca2504583,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Good,Below Average,Good,3
+30-01-2025,Session 1,250201,IOT,Diya Panchal,Female,mca2504584,MCA,Sem 4,Prof. R. Shah,Average,Average,Average,Excellent,Good,3
+30-01-2025,Session 1,250201,IOT,Parth Mistry,Female,mca2504585,MCA,Sem 4,Prof. N. Mehta,Below Average,Average,Excellent,Average,Average,4
+30-01-2025,Session 2,250202,Foundation Of Data Science,Aavya Parmar,Male,mca2504586,MCA,Sem 4,Prof. R. Shah,Below Average,Good,Below Average,Below Average,Good,5
+30-01-2025,Session 2,250202,Foundation Of Data Science,Pooja Mistry,Male,mca2504587,MCA,Sem 4,Prof. S. Joshi,Average,Excellent,Excellent,Below Average,Excellent,4
+30-01-2025,Session 2,250202,Foundation Of Data Science,Vivaan Vaghela,Male,mca2504588,MCA,Sem 4,Prof. M. Desai,Below Average,Below Average,Below Average,Average,Below Average,5
+30-01-2025,Session 2,250202,Foundation Of Data Science,Krishna Shah,Female,mca2504589,MCA,Sem 4,Prof. M. Desai,Average,Below Average,Excellent,Good,Average,4
+30-01-2025,Session 2,250202,Foundation Of Data Science,Riya Desai,Female,mca2504590,MCA,Sem 4,Prof. N. Mehta,Good,Excellent,Excellent,Average,Excellent,4
+30-01-2025,Session 3,250203,Data Warehousing,Vivaan Desai,Female,mca2504591,MCA,Sem 4,Prof. N. Mehta,Average,Average,Average,Good,Excellent,4
+30-01-2025,Session 3,250203,Data Warehousing,Suresh Chauhan,Male,mca2504592,MCA,Sem 4,Prof. N. Mehta,Excellent,Excellent,Below Average,Excellent,Good,3
+30-01-2025,Session 3,250203,Data Warehousing,Riya Rathod,Male,mca2504593,MCA,Sem 4,Prof. S. Joshi,Below Average,Average,Average,Average,Good,5
+30-01-2025,Session 3,250203,Data Warehousing,Tushar Joshi,Female,mca2504594,MCA,Sem 4,Prof. A. Patel,Below Average,Average,Good,Average,Good,4
+30-01-2025,Session 3,250203,Data Warehousing,Hardik Solanki,Female,mca2504595,MCA,Sem 4,Prof. A. Patel,Below Average,Excellent,Good,Below Average,Average,3
+30-01-2025,Session 4,250204,Power BI,Mehul Patel,Female,mca2504596,MCA,Sem 4,Prof. N. Mehta,Average,Good,Excellent,Excellent,Below Average,4
+30-01-2025,Session 4,250204,Power BI,Ishaan Parmar,Female,mca2504597,MCA,Sem 4,Prof. R. Shah,Excellent,Excellent,Average,Good,Excellent,5
+30-01-2025,Session 4,250204,Power BI,Nehal Joshi,Female,mca2504598,MCA,Sem 4,Prof. N. Mehta,Good,Average,Good,Good,Excellent,4
+30-01-2025,Session 4,250204,Power BI,Deep Desai,Female,mca2504599,MCA,Sem 4,Prof. M. Desai,Good,Excellent,Below Average,Excellent,Average,3
+30-01-2025,Session 4,250204,Power BI,Pooja Mistry,Male,mca2504600,MCA,Sem 4,Prof. A. Patel,Excellent,Excellent,Good,Below Average,Good,5
