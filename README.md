@@ -1,0 +1,2 @@
+# A-Real-Time-Student-Feedback-Sentiment-Analysis-using-ML-NLP
+A machine learning and NLP-powered system that analyzes student feedback in real time and classifies sentiments as positive, negative, or neutral. The project enables educators to identify trends, measure student satisfaction, and make informed decisions through automated text processing, sentiment analysis, and insightful visualizations.
