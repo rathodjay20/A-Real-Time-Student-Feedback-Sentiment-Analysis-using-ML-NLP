@@ -141,28 +141,28 @@ ________________________________________
 ________________________________________
 **📋 Requirements**
 
-pandas
+**pandas**
 
-numpy
+**numpy**
 
-matplotlib
+**matplotlib**
 
-seaborn
+**seaborn**
 
-scikit-learn
+**scikit-learn**
 
-jupyter
+**jupyter**
 ________________________________________
 
 **🚀 Future Scope**
 
-•	🔤 NLP Text Analysis — Add text-based feedback column and apply VADER / TextBlob for deeper sentiment scoring
+•	🔤 **NLP Text Analysis** — Add text-based feedback column and apply VADER / TextBlob for deeper sentiment scoring.
 
-•	📡 Real-Time Dashboard — Build a live Streamlit or Power BI dashboard connected to live feedback forms
+•	📡 **Real-Time Dashboard** — Build a live Streamlit or Power BI dashboard connected to live feedback forms.
 
-•	🤖 Predictive Modeling — Train classification models to predict student satisfaction from session attributes
+•	🤖 **Predictive Modeling** — Train classification models to predict student satisfaction from session attributes.
 
-•	📧 Alert System — Automated alerts to faculty/admin when ratings drop below a threshold
+•	📧 **Alert System** — Automated alerts to faculty/admin when ratings drop below a threshold.
 
-•	🌐 Web Integration — Embed feedback collection and live analysis into a student portal
+•	🌐 **Web Integration** — Embed feedback collection and live analysis into a student portal.
 
